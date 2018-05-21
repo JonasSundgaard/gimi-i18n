@@ -486,7 +486,7 @@
   "general_participants": "osallistujat",
   "edit_description": "muokkaa kuvausta",
   "question_frequency": "kuinka usein?",
-  "chore_recurring_desc": "tämä askare on toistuva, se aktivoituu tiettyinä päivinä.",
+  "chore_recurring_desc": "PLZ_TRANSLATE this chore is recurring and activates in periods",
   "chore_always_available_desc": "tämä askare on aina saatavilla, se voidaan tehdä niin monta kertaa kuin haluaa.",
   "chore_non_recurring_desc": "tämä askare voidaan tehdä vain kerran.",
   "question_payment": "miten haluat maksaa?",

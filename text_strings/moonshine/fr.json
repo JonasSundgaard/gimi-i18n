@@ -486,7 +486,7 @@
   "general_participants": "participants",
   "edit_description": "changer la description",
   "question_frequency": "tous les combien?",
-  "chore_recurring_desc": "cette tâche est répétitive, elle revient certains jours.",
+  "chore_recurring_desc": "PLZ_TRANSLATE this chore is recurring and activates in periods",
   "chore_always_available_desc": "cette tâche est toujours disponible, elle peut être effectuée à de nombreuses reprises.",
   "chore_non_recurring_desc": "cette tâche ne peut être faite qu'une fois.",
   "question_payment": "comment souhaitez-vous payer?",

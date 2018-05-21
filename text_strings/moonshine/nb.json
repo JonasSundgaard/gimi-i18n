@@ -486,7 +486,7 @@
   "general_participants": "deltagere",
   "edit_description": "rediger beskrivelse",
   "question_frequency": "hvor ofte?",
-  "chore_recurring_desc": "denne oppgaven kommer igjen og aktiveres i perioder",
+  "chore_recurring_desc": "PLZ_TRANSLATE this chore is recurring and activates in periods",
   "chore_always_available_desc": "denne oppgaven er alltid aktivert og kan utføres så mange ganger som du vil",
   "chore_non_recurring_desc": "denne oppgaven kan bare utføres en gang.",
   "question_payment": "hvordan vil du betale?",

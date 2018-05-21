@@ -486,7 +486,7 @@
   "general_participants": "deelnemers",
   "edit_description": "bewerk beschrijving",
   "question_frequency": "hoe vaak?",
-  "chore_recurring_desc": "dit klusje is terugkerend, het komt terug op specifieke dagen.",
+  "chore_recurring_desc": "PLZ_TRANSLATE this chore is recurring and activates in periods",
   "chore_always_available_desc": "dit klusje is altijd beschikbaar, het kan onbeperkt aantal keren worden gedaan.",
   "chore_non_recurring_desc": "dit klusje kan maar een keer worden uitgevoerd.",
   "question_payment": "hoe wil je betalen?",

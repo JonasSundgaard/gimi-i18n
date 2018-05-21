@@ -486,7 +486,7 @@
   "general_participants": "participants",
   "edit_description": "edit description",
   "question_frequency": "how often?",
-  "chore_recurring_desc": "this chore is recurring, it comes back on specific days.",
+  "chore_recurring_desc": "this chore is recurring and activates in periods",
   "chore_always_available_desc": "this chore is always available, it can be done unlimited numbers of times.",
   "chore_non_recurring_desc": "this chore can only be done once.",
   "question_payment": "how do you want to pay?",

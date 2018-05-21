@@ -486,7 +486,7 @@
   "general_participants": "partecipanti",
   "edit_description": "modifica descrizione",
   "question_frequency": "quanto spesso?",
-  "chore_recurring_desc": "questa faccenda è ricorrente, ritorna nei giorni specifici.",
+  "chore_recurring_desc": "PLZ_TRANSLATE this chore is recurring and activates in periods",
   "chore_always_available_desc": "questa faccenda è sempre disponibile, può essere fatto un numero illimitato di volte.",
   "chore_non_recurring_desc": "questa faccenda può essere svolta solo una volta.",
   "question_payment": "come vuoi pagare?",
