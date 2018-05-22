@@ -535,7 +535,7 @@
   "no_thanks": "Nein, danke",
   "connect_now": "Füge jetzt einen Kontakt hinzu",
   "enable_access": "Zugriff aktivieren",
-  "remove_permissions": "Berechtigungen entfernen",
+  "remove_permissions": "PLZ_CHECK Berechtigungen",
   "confirm_exit_app": "Möchtest Du die App wirklich schließen?",
   "question_sure": "Bist Du sicher?",
   "yes_sure": "Ja, ich bin sicher",
