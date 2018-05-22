@@ -27,31 +27,5 @@
   "minSavingsAccountBalance": -15000,
   "taskIncrementInterval": 0.1,
   "minimumGoalAmountInCents": 100,
-  "minExpectedInterestRate": 0.01,
-  "cardFeeTypes": {
-    "SMonthly": {
-      "name": "SMonthly",
-      "amount": 3
-    },
-    "MMonthly": {
-      "name": "MMonthly",
-      "amount": 5
-    },
-    "LMonthly": {
-      "name": "LMonthly",
-      "amount": 7
-    },
-    "SYearly": {
-      "name": "SYearly",
-      "amount": 30
-    },
-    "MYearly": {
-      "name": "MYearly",
-      "amount": 50
-    },
-    "LYearly": {
-      "name": "LYearly",
-      "amount": 70
-    }
-  }
+  "minExpectedInterestRate": 0.01
 }
