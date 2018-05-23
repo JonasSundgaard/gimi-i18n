@@ -1321,5 +1321,13 @@
   "add_pin_code": "PLZ_TRANSLATE Add PIN-code",
   "spending_notifications": "PLZ_TRANSLATE Spending notifications",
   "spending_notifications_subtitle": "PLZ_TRANSLATE We'll notify you when spending exceeds a limit you decide",
-  "general_limits": "PLZ_TRANSLATE Limits"
+  "general_limits": "PLZ_TRANSLATE Limits",
+  "premium_intro_main_title": "PLZ_TRANSLATE This is Gimi Premium",
+  "premium_intro_main_desc": "PLZ_TRANSLATE When your child is ready to handle real money, get Gimi Premium.",
+  "premium_intro_savings_title": "PLZ_TRANSLATE Manage real money",
+  "premium_intro_savings_desc": "PLZ_TRANSLATE Upgrade the Cloud into a real savings account and get a card for your child! Transfer money easily in the Gimi app.",
+  "premium_intro_card_title": "PLZ_TRANSLATE The Gimi Card",
+  "premium_intro_card_desc": "PLZ_TRANSLATE You get insight into all card activity, and you control the card in the Gimi app. No more cash!",
+  "premium_intro_read_more_about_card": "PLZ_TRANSLATE Read more about the card",
+  "premium_intro_get_premium_button": "PLZ_TRANSLATE Get Premium"
 }
