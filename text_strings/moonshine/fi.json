@@ -1209,7 +1209,7 @@
   "word_from_ceo_header": "Tervetuloa uuteen Gimi-sovellukseen!",
   "word_from_ceo_desc": "Tämä on meidän suurin päivityksemme, jota valmistelimme yli vuoden. Toivottavasti sinä ja perheesi tykkäätte siitä!",
   "general_week": "viikko",
-  "empty_graph_state": "kerätään tietoja...",
+  "empty_graph_state": "PLZ_TRANSLATE Give it some time, and this will turn into a nice graph!",
   "task_title_placeholder": "nimi",
   "custom_notification_onboarding_old_user_child": "Tutustu uuteen sovellukseesi",
   "custom_notification_onboarding_old_user_parent": "Tutustu uuteen sovellukseesi",

@@ -1209,7 +1209,7 @@
   "word_from_ceo_header": "¡Bienvenido(a) a la nueva aplicación Gimi!",
   "word_from_ceo_desc": "Esta es nuestra mayor actualización, en la que hemos trabajado por más de un año. ¡Espero que a ti y a tu familia les guste!",
   "general_week": "semana",
-  "empty_graph_state": "recopilando datos...",
+  "empty_graph_state": "PLZ_TRANSLATE Give it some time, and this will turn into a nice graph!",
   "task_title_placeholder": "nombre",
   "custom_notification_onboarding_old_user_child": "Conoce tu nueva aplicación",
   "custom_notification_onboarding_old_user_parent": "Conoce tu nueva aplicación",

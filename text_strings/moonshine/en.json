@@ -1209,7 +1209,7 @@
   "word_from_ceo_header": "Welcome to the new Gimi app!",
   "word_from_ceo_desc": "This is our biggest update that we have been working on for over a year. I hope you and your family will love it!",
   "general_week": "week",
-  "empty_graph_state": "calculating data...",
+  "empty_graph_state": "Give it some time, and this will turn into a nice graph!",
   "task_title_placeholder": "name",
   "custom_notification_onboarding_old_user_child": "Get to know your new app",
   "custom_notification_onboarding_old_user_parent": "Get to know your new app",
