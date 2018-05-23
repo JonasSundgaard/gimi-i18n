@@ -1329,5 +1329,7 @@
   "premium_intro_card_title": "The Gimi Card",
   "premium_intro_card_desc": "You get insight into all card activity, and you control the card in the Gimi app. No more cash!",
   "premium_intro_read_more_about_card": "Read more about the card",
-  "premium_intro_get_premium_button": "Get Premium"
+  "premium_intro_get_premium_button": "Get Premium",
+  "activate_new_card": "Activate new card",
+  "card_was_lost_info": "Card was lost, but a new card is on it's way!"
 }

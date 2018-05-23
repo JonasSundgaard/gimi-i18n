@@ -1329,5 +1329,7 @@
   "premium_intro_card_title": "PLZ_TRANSLATE The Gimi Card",
   "premium_intro_card_desc": "PLZ_TRANSLATE You get insight into all card activity, and you control the card in the Gimi app. No more cash!",
   "premium_intro_read_more_about_card": "PLZ_TRANSLATE Read more about the card",
-  "premium_intro_get_premium_button": "PLZ_TRANSLATE Get Premium"
+  "premium_intro_get_premium_button": "PLZ_TRANSLATE Get Premium",
+  "activate_new_card": "PLZ_TRANSLATE Activate new card",
+  "card_was_lost_info": "PLZ_TRANSLATE Card was lost, but a new card is on it's way!"
 }
