@@ -1258,11 +1258,6 @@
   "future_interest_help_desc_parent": "Het getal dat je hier ziet is de schatting van de volgende rente betaling, gebaseerd op het spaargeld in de cloud.",
   "chore_reward": "Beloning",
   "email_invite_description": "we sturen je een email",
-  "monthly_allowance_amount_explainer": "Zakgeld wordt altijd uitbetaald. We bevelen het gemiddelde bedrag van wat andere kinderen van dezelfde leeftijd krijgen aan.",
-  "weekly_allowance_amount_explainer": "Zakgeld wordt altijd uitbetaald. We bevelen het gemiddelde bedrag van wat andere kinderen van dezelfde leeftijd krijgen aan.",
-  "interest_explainer": "Rente begrijpen is een waardevolle les voor volwassenheid en moedigt kinderen aan om met sparen te beginnen.  We recommend an amount that is the average of what other children of the same age get.",
-  "allowance_frequency_explainer": "Wekelijks of maandelijks? Dat hangt van de tijdsperiode af waarover  een kind volwassen genoeg is om geld te beheren. Het is normaal dat kinderen jonger dan 11 jaar wekelijks zakgeld krijgen, en dat kinderen ouder dan 11 jaar maandelijks zakgeld krijgen.",
-  "accepted_invite_chores_explainer": "Klusjes geven een kind de gelegenheid iets extra's te verdienen. Het is belangrijk voor kinderen om te leren hoe geld verdienen werkt, niet alleen het onvoorwaardelijk krijgen. Dit zijn de meest populaire klusjes voor kinderen van dezelfde leeftijd.",
   "kid_choose_popular_for_age": "Populair voor %1$d jaar oud",
   "chore_edited_button_text": "Klusje gereed",
   "delete_connection_warning_for_kid": "Het geld dat %1$d je schuldig is verdwijnt uit de cloud. Weet je zeker dat je %1$d wilt verwijderen?",
@@ -1335,5 +1330,10 @@
   "you_have_been_disconnected_title": "PLZ_TRANSLATE You have been disconnected",
   "you_have_been_disconnected_desc": "PLZ_TRANSLATE %1$d deleted your connection. So the money that %1$d owed you have been removed from you Cloud and you are no longer connected.",
   "general_ok_got_it": "PLZ_TRANSLATE OK got it",
-  "month_and_year": "PLZ_TRANSLATE month / year"
+  "month_and_year": "PLZ_TRANSLATE month / year",
+  "monthly_allowance_amount_explainer": "PLZ_TRANSLATE Pocket money is paid out unconditionally. We recommend an amount that is the average of what other children of the same age get.",
+  "weekly_allowance_amount_explainer": "PLZ_TRANSLATE Pocket money is paid out unconditionally. We recommend an amount that is the average of what other children of the same age get.",
+  "interest_explainer": "PLZ_TRANSLATE Understanding interest is a valuable lesson for adulthood and encourages children to start saving. We recommend an amount that is the average of what other children of the same age get.",
+  "allowance_frequency_explainer": "PLZ_TRANSLATE Weekly or monthly? It depends on the time period over which a child is mature to manage money. It’s common that children younger than 11 years get weekly pocket money, and that children older than 11 years get monthly pocket money.",
+  "accepted_invite_chores_explainer": "PLZ_TRANSLATE Chores give children the opportunity to earn some extra. It’s important for children to learn how earning money works, not just receiving it unconditionally. These are the most popular chores amongst children of the same age."
 }
