@@ -1336,5 +1336,6 @@
   "you_have_been_disconnected_desc": "%1$d deleted your connection. So the money that %1$d owed you have been removed from you Cloud and you are no longer connected.",
   "general_ok_got_it": "OK got it",
   "month_and_year": "month / year",
-  "get_card_info_error": "Oh no... We could not get your card details. Please try again soon!"
+  "get_card_info_error": "Oh no... We could not get your card details. Please try again soon!",
+  "payout_summary_title": "Payout summary"
 }
