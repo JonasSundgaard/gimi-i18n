@@ -1258,11 +1258,6 @@
   "future_interest_help_desc_parent": "PLZ_TRANSLATE The figure you see here shows an estimate of the next interest payment, which is based on the savings amount in the Cloud.",
   "chore_reward": "PLZ_TRANSLATE Reward",
   "email_invite_description": "PLZ_TRANSLATE we sent you an email",
-  "monthly_allowance_amount_explainer": "PLZ_TRANSLATE Pocket money is paid out unconditionally. We recommend an amount that is the average of what other children of the same age get.",
-  "weekly_allowance_amount_explainer": "PLZ_TRANSLATE Pocket money is paid out unconditionally. We recommend an amount that is the average of what other children of the same age get.",
-  "interest_explainer": "PLZ_TRANSLATE Understanding interest is a valuable lesson for adulthood and encourages children to start saving. We recommend an amount that is the average of what other children of the same age get.",
-  "allowance_frequency_explainer": "PLZ_TRANSLATE Weekly or monthly? It depends on the time period over which a child is mature to manage money. It’s common that children younger than 11 years get weekly pocket money, and that children older than 11 years get monthly pocket money.",
-  "accepted_invite_chores_explainer": "PLZ_TRANSLATE Chores give children the opportunity to earn some extra. It’s important for children to learn how earning money works, not just receiving it unconditionally. These are the most popular chores amongst children of the same age.",
   "kid_choose_popular_for_age": "PLZ_TRANSLATE Popular for %1$d year olds",
   "chore_edited_button_text": "PLZ_TRANSLATE Chore done",
   "delete_connection_warning_for_kid": "PLZ_TRANSLATE The money that %1$d owes you will dissappear from the cloud. Are you sure you want to delete %1$d",
@@ -1335,5 +1330,10 @@
   "you_have_been_disconnected_title": "PLZ_TRANSLATE You have been disconnected",
   "you_have_been_disconnected_desc": "PLZ_TRANSLATE %1$d deleted your connection. So the money that %1$d owed you have been removed from you Cloud and you are no longer connected.",
   "general_ok_got_it": "PLZ_TRANSLATE OK got it",
-  "month_and_year": "PLZ_TRANSLATE month / year"
+  "month_and_year": "PLZ_TRANSLATE month / year",
+  "monthly_allowance_amount_explainer": "PLZ_TRANSLATE Pocket money is paid out unconditionally. We recommend an amount that is the average of what other children of the same age get.",
+  "weekly_allowance_amount_explainer": "PLZ_TRANSLATE Pocket money is paid out unconditionally. We recommend an amount that is the average of what other children of the same age get.",
+  "interest_explainer": "PLZ_TRANSLATE Understanding interest is a valuable lesson for adulthood and encourages children to start saving. We recommend an amount that is the average of what other children of the same age get.",
+  "allowance_frequency_explainer": "PLZ_TRANSLATE Weekly or monthly? It depends on the time period over which a child is mature to manage money. It’s common that children younger than 11 years get weekly pocket money, and that children older than 11 years get monthly pocket money.",
+  "accepted_invite_chores_explainer": "PLZ_TRANSLATE Chores give children the opportunity to earn some extra. It’s important for children to learn how earning money works, not just receiving it unconditionally. These are the most popular chores amongst children of the same age."
 }
