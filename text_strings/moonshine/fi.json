@@ -1334,5 +1334,6 @@
   "card_was_lost_info": "PLZ_TRANSLATE Card was lost, but a new card is on it's way!",
   "you_have_been_disconnected_title": "PLZ_TRANSLATE You have been disconnected",
   "you_have_been_disconnected_desc": "PLZ_TRANSLATE %1$d deleted your connection. So the money that %1$d owed you have been removed from you Cloud and you are no longer connected.",
-  "general_ok_got_it": "PLZ_TRANSLATE OK got it"
+  "general_ok_got_it": "PLZ_TRANSLATE OK got it",
+  "month_and_year": "PLZ_TRANSLATE month / year"
 }
