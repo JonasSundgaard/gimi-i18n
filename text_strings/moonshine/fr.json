@@ -1338,5 +1338,7 @@
   "month_and_year": "PLZ_TRANSLATE month / year",
   "get_card_info_error": "PLZ_TRANSLATE Oh no... We could not get your card details. Please try again soon!",
   "payout_summary_title": "PLZ_TRANSLATE Payout summary",
-  "card_info_timer": "PLZ_TRANSLATE We can only show this for..."
+  "card_info_timer": "PLZ_TRANSLATE We can only show this for...",
+  "payout_summary_for_name": "PLZ_TRANSLATE Payout summary for %1$d",
+  "payout_summary_edit_amount": "PLZ_TRANSLATE Edit amount"
 }
