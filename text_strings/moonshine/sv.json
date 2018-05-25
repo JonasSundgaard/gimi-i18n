@@ -670,7 +670,7 @@
   "payment_option_swish_soon": "Swish - Kommer snart!",
   "payment_option_apple_pay_soon": "Apple pay - Kommer snart!",
   "your_personal_id_number": "Fyll i ditt personnummer",
-  "reason_to_ask_for_personal_id": "Så att vi kan få fram dina uppgifter",
+  "reason_to_ask_for_personal_id": "För att i nästa steg signera med Mobilt BankID",
   "why_do_we_ask_for_this": "Varför frågar vi efter detta? 🤔",
   "open_the_app": "1. Öppna Gimi appen",
   "qr_code_parent_connect_instruction": "2. Gå till Profil, välj Mina kontakter och sedan Bjud in. Välj Scanna QR.",
