@@ -1337,5 +1337,6 @@
   "general_ok_got_it": "OK got it",
   "month_and_year": "month / year",
   "get_card_info_error": "Oh no... We could not get your card details. Please try again soon!",
-  "payout_summary_title": "Payout summary"
+  "payout_summary_title": "Payout summary",
+  "card_info_timer": "We can only show this for..."
 }
