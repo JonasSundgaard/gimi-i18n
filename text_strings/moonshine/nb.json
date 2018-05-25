@@ -141,6 +141,7 @@
   "countdown": "nedregning",
   "card_release_timer": "tid igjen til lanseringen av kortet",
   "card_test": "korttest",
+  "general_do_the_card_test": "PLZ_TRANSLATE Do the Card test!",
   "card_test_not_done": "du har ikke gjort testen ennå",
   "to_test": "til testen",
   "try_again_in_timer": "Du kan prova igjen om %1$d dager",

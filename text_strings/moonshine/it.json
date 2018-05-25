@@ -141,6 +141,7 @@
   "countdown": "conto alla rovescia",
   "card_release_timer": "tempo rimasto all'avvio della carta",
   "card_test": "test della carta",
+  "general_do_the_card_test": "PLZ_TRANSLATE Do the Card test!",
   "card_test_not_done": "non hai ancora fatto il test",
   "to_test": "al test",
   "try_again_in_timer": "puoi provare di nuovo in %1$d giorni",

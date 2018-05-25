@@ -141,6 +141,7 @@
   "countdown": "countdown",
   "card_release_timer": "time left until card launch",
   "card_test": "card test",
+  "general_do_the_card_test": "Do the Card test!",
   "card_test_not_done": "you have not done the test yet",
   "to_test": "to the test",
   "try_again_in_timer": "you can try again in %1$d days",

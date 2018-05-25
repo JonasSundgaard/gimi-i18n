@@ -141,6 +141,7 @@
   "countdown": "compte à rebour",
   "card_release_timer": "temps qui reste jusqu'au lancement de la carte",
   "card_test": "test pour carte",
+  "general_do_the_card_test": "PLZ_TRANSLATE Do the Card test!",
   "card_test_not_done": "vous n'avez pas encore complété le test",
   "to_test": "vers le test",
   "try_again_in_timer": "vous pouvez essayer à nouveau dans  %1$d jours",

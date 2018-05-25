@@ -141,6 +141,7 @@
   "countdown": "Countdown",
   "card_release_timer": "verbleibende Zeit bis zur Kartenaktivierung",
   "card_test": "Kartentest",
+  "general_do_the_card_test": "PLZ_TRANSLATE Do the Card test!",
   "card_test_not_done": "Du hast den Test noch nicht gemacht",
   "to_test": "zum Test",
   "try_again_in_timer": "Du kannst es in %1$d Tagen noch einmal probieren",

@@ -141,6 +141,7 @@
   "countdown": "lähtölaskenta",
   "card_release_timer": "aikaa jäljellä kortin lähetykseen",
   "card_test": "korttitesti",
+  "general_do_the_card_test": "PLZ_TRANSLATE Do the Card test!",
   "card_test_not_done": "et ole vielä suorittanut testiä",
   "to_test": "testiin",
   "try_again_in_timer": "voit yrittää uudelleen %1$d päivän kuluttua",

@@ -141,6 +141,7 @@
   "countdown": "cuenta regresiva",
   "card_release_timer": "tiempo restante hasta el lanzamiento de la tarjeta",
   "card_test": "prueba de la tarjeta",
+  "general_do_the_card_test": "PLZ_TRANSLATE Do the Card test!",
   "card_test_not_done": "todavía no has terminado la prueba",
   "to_test": "para la prueba",
   "try_again_in_timer": "puedes intentar nuevamente en %1$d días",
