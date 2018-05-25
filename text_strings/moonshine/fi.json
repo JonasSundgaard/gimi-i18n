@@ -1347,5 +1347,6 @@
   "snooze_payout_plural_title": "PLZ_TRANSLATE You sure you don't want to pay your children?",
   "snooze_payout_singluar_text": "PLZ_TRANSLATE Your child is expecting their payout!",
   "snooze_payout_plural_text": "PLZ_TRANSLATE Your children are expecting their payout!",
-  "general_sure": "PLZ_TRANSLATE Sure"
+  "general_sure": "PLZ_TRANSLATE Sure",
+  "payout_loading_text": "PLZ_TRANSLATE Sending you to card stuff bla"
 }

@@ -1347,5 +1347,6 @@
   "snooze_payout_plural_title": "You sure you don't want to pay your children?",
   "snooze_payout_singluar_text": "Your child is expecting their payout!",
   "snooze_payout_plural_text": "Your children are expecting their payout!",
-  "general_sure": "Sure"
+  "general_sure": "Sure",
+  "payout_loading_text": "Sending you to card stuff bla"
 }
