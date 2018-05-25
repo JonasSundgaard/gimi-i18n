@@ -1341,5 +1341,10 @@
   "card_info_timer": "We can only show this for...",
   "payout_summary_for_name": "Payout summary for %1$d",
   "payout_summary_edit_amount": "Edit amount",
-  "payout_to_n": "Payout to %1$d"
+  "payout_to_n": "Payout to %1$d",
+  "snooze_payout_singluar_title": "You sure you don't want to pay your child?",
+  "snooze_payout_plural_title": "You sure you don't want to pay your children?",
+  "snooze_payout_singluar_text": "Your child is expecting their payout!",
+  "snooze_payout_plural_text": "Your children are expecting their payout!",
+  "general_sure": "Sure"
 }
