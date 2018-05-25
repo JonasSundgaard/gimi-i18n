@@ -192,7 +192,6 @@
   "scan_this_image": "3. scan this picture",
   "general_next_step": "next step",
   "question_phone": "what's your phone number?",
-  "why_do_we_ask_for_your_phone_number": "why do we ask about your phone number?",
   "question_email": "enter your email",
   "invite_with_camera": "scan QR code",
   "invite_with_sms": "send a SMS",
@@ -392,7 +391,6 @@
   "parent_deleted_kid": "it seems your child no longer has a Gimi account",
   "phone_number_exists": "this number is already in use",
   "phone_number_exists_desc": "There is already an account for this phone number. Check the number or sign in now.",
-  "why_phone_number_desc": "We use phone numbers to make sure users can log in and add contacts",
   "family_is_here": "your family is already here!",
   "your_card_details": "my card details",
   "you_dont_have_a_card": "you have not added a card yet",
@@ -1348,5 +1346,6 @@
   "snooze_payout_singluar_text": "Your child is expecting their payout!",
   "snooze_payout_plural_text": "Your children are expecting their payout!",
   "general_sure": "Sure",
-  "payout_loading_text": "Sending you to card stuff bla"
+  "payout_loading_text": "Sending you to card stuff bla",
+  "why_phone_number": "Why do we need your phone number? We use the phone number to connect you with your family and guarantee that there won't be connections with anyone outside the family."
 }

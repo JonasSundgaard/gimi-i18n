@@ -192,7 +192,6 @@
   "scan_this_image": "3. scanna denna bild",
   "general_next_step": "nästa steg",
   "question_phone": "vad är ditt telefonnummer?",
-  "why_do_we_ask_for_your_phone_number": "varför frågar vi efter ditt nummer?",
   "question_email": "Skriv in din e-post",
   "invite_with_camera": "scanna QR-kod",
   "invite_with_sms": "skicka SMS",
@@ -392,7 +391,6 @@
   "parent_deleted_kid": "det verkar som att ditt barn har raderat sitt konto hos Gimi",
   "phone_number_exists": "det här numret används redan",
   "phone_number_exists_desc": "det finns redan ett konto till det här telefonnumret. Kontrollera numret eller logga in nu.",
-  "why_phone_number_desc": "vi använder telefonnummer för att du ska kunna logga in och lägga till kontakter",
   "family_is_here": "din familj är redan här!",
   "your_card_details": "mina kortdetaljer",
   "you_dont_have_a_card": "du har inte lagt till något kort än",
@@ -1348,5 +1346,6 @@
   "snooze_payout_singluar_text": "Your child is expecting their payout!",
   "snooze_payout_plural_text": "Your children are expecting their payout!",
   "general_sure": "Sure",
-  "payout_loading_text": "Sending you to card stuff bla"
+  "payout_loading_text": "Sending you to card stuff bla",
+  "why_phone_number": "Varför behöver vi ditt nummer? Vi använder telefonnumret för att koppla ihop dig med din familj, och garantera att det inte sker ihopkopplingar med någon utanför familjen."
 }

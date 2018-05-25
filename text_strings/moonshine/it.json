@@ -192,7 +192,6 @@
   "scan_this_image": "3. scansiona l'immagine",
   "general_next_step": "passo successivo",
   "question_phone": "qual è il tuo cellulare?",
-  "why_do_we_ask_for_your_phone_number": "perché chiediamo il numero di cellulare?",
   "question_email": "inserisci la tua email",
   "invite_with_camera": "scansiona il codice QR",
   "invite_with_sms": "invia un SMS",
@@ -392,7 +391,6 @@
   "parent_deleted_kid": "sembra che tuo bambino non abbia più un account Gimi",
   "phone_number_exists": "questo numero è già in uso",
   "phone_number_exists_desc": "Esiste già un account con questo numero di telefono. Controlla il numero o accedi adesso.",
-  "why_phone_number_desc": "Usiamo i numeri di telefono solo per assicurarci che gli utenti possano accedere e aggiungere i contatti",
   "family_is_here": "la tua famiglia è già qui!",
   "your_card_details": "i dettagli della mia carta",
   "you_dont_have_a_card": "non hai ancora aggiunto una carta",
@@ -1348,5 +1346,6 @@
   "snooze_payout_singluar_text": "PLZ_TRANSLATE Your child is expecting their payout!",
   "snooze_payout_plural_text": "PLZ_TRANSLATE Your children are expecting their payout!",
   "general_sure": "PLZ_TRANSLATE Sure",
-  "payout_loading_text": "PLZ_TRANSLATE Sending you to card stuff bla"
+  "payout_loading_text": "PLZ_TRANSLATE Sending you to card stuff bla",
+  "why_phone_number": "PLZ_TRANSLATE Why do we need your phone number? We use the phone number to connect you with your family and guarantee that there won't be connections with anyone outside the family."
 }
