@@ -1340,5 +1340,6 @@
   "payout_summary_title": "Payout summary",
   "card_info_timer": "We can only show this for...",
   "payout_summary_for_name": "Payout summary for %1$d",
-  "payout_summary_edit_amount": "Edit amount"
+  "payout_summary_edit_amount": "Edit amount",
+  "payout_to_n": "Payout to %1$d"
 }

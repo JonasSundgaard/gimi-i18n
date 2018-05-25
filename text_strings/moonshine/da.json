@@ -1340,5 +1340,6 @@
   "payout_summary_title": "PLZ_TRANSLATE Payout summary",
   "card_info_timer": "PLZ_TRANSLATE We can only show this for...",
   "payout_summary_for_name": "PLZ_TRANSLATE Payout summary for %1$d",
-  "payout_summary_edit_amount": "PLZ_TRANSLATE Edit amount"
+  "payout_summary_edit_amount": "PLZ_TRANSLATE Edit amount",
+  "payout_to_n": "PLZ_TRANSLATE Payout to %1$d"
 }
