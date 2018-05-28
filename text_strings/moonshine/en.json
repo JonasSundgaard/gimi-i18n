@@ -1351,5 +1351,6 @@
   "general_the_card": "The card",
   "general_the_savings_account": "The savings account",
   "kid_home_item_next_payday": "Next payday",
-  "change_this_month": "Change %1$d"
+  "change_this_month": "Change %1$d",
+  "err_fetching_card_balance": "Could not fetch card balance"
 }

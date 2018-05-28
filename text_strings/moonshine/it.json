@@ -1351,5 +1351,6 @@
   "general_the_card": "PLZ_TRANSLATE The card",
   "general_the_savings_account": "PLZ_TRANSLATE The savings account",
   "kid_home_item_next_payday": "PLZ_TRANSLATE Next payday",
-  "change_this_month": "PLZ_TRANSLATE Change %1$d"
+  "change_this_month": "PLZ_TRANSLATE Change %1$d",
+  "err_fetching_card_balance": "PLZ_TRANSLATE Could not fetch card balance"
 }
