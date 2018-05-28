@@ -1347,5 +1347,8 @@
   "snooze_payout_plural_text": "Your children are expecting their payout!",
   "general_sure": "Sure",
   "payout_loading_text": "Sending you to card stuff bla",
-  "why_phone_number": "Varför behöver vi ditt nummer? Vi använder telefonnumret för att koppla ihop dig med din familj, och garantera att det inte sker ihopkopplingar med någon utanför familjen."
+  "why_phone_number": "Varför behöver vi ditt nummer? Vi använder telefonnumret för att koppla ihop dig med din familj, och garantera att det inte sker ihopkopplingar med någon utanför familjen.",
+  "general_the_card": "The card",
+  "general_the_savings_account": "The savings account",
+  "kid_home_item_next_payday": "Next payday"
 }

@@ -1347,5 +1347,8 @@
   "snooze_payout_plural_text": "PLZ_TRANSLATE Your children are expecting their payout!",
   "general_sure": "PLZ_TRANSLATE Sure",
   "payout_loading_text": "PLZ_TRANSLATE Sending you to card stuff bla",
-  "why_phone_number": "PLZ_TRANSLATE Why do we need your phone number? We use the phone number to connect you with your family and guarantee that there won't be connections with anyone outside the family."
+  "why_phone_number": "PLZ_TRANSLATE Why do we need your phone number? We use the phone number to connect you with your family and guarantee that there won't be connections with anyone outside the family.",
+  "general_the_card": "PLZ_TRANSLATE The card",
+  "general_the_savings_account": "PLZ_TRANSLATE The savings account",
+  "kid_home_item_next_payday": "PLZ_TRANSLATE Next payday"
 }
