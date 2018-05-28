@@ -312,7 +312,7 @@
   "to_be_earned_child": "her kan du tjene",
   "finished_chores": "godkjente",
   "general_pending": "ferdig",
-  "general_pending_parent": "Ferdig, men ikke godkjente",
+  "general_pending_parent": "PLZ_TRANSLATE Waiting for your approval",
   "general_pending_child": "ferdige",
   "general_to_do": "ikke ferdige",
   "general_to_do_parent": "ikke ferdige",

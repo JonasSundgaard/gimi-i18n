@@ -312,7 +312,7 @@
   "to_be_earned_child": "hier kannst Du verdienen",
   "finished_chores": "genehmigt",
   "general_pending": "erledigt",
-  "general_pending_parent": "erledigt, aber nicht genehmigt",
+  "general_pending_parent": "PLZ_TRANSLATE Waiting for your approval",
   "general_pending_child": "erledigt",
   "general_to_do": "zu erledigen",
   "general_to_do_parent": "nicht erledigt",

@@ -312,7 +312,7 @@
   "to_be_earned_child": "here you can earn",
   "finished_chores": "approved",
   "general_pending": "done",
-  "general_pending_parent": "done, but not approved",
+  "general_pending_parent": "Waiting for your approval",
   "general_pending_child": "done",
   "general_to_do": "to do",
   "general_to_do_parent": "not done",

@@ -312,7 +312,7 @@
   "to_be_earned_child": "aquí puedes ganar",
   "finished_chores": "aprobado",
   "general_pending": "hecho",
-  "general_pending_parent": "hecho, pero no aprobado",
+  "general_pending_parent": "PLZ_TRANSLATE Waiting for your approval",
   "general_pending_child": "hecho",
   "general_to_do": "hacer",
   "general_to_do_parent": "no está hecho",
