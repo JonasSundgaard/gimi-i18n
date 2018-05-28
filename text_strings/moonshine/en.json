@@ -1358,6 +1358,6 @@
   "info_view_identity_not_correct_description": "We're sorry. If the name returned from your bank is not correct, we can't verify your identity, so we can't get you a card.",
   "permission_request_sent": "Permission request sent!",
   "permission_request_sent_description": "Now just sit tight and wait, when %1$d has accepted your request, we will notify you",
-  "info_view_KYC_success_title": "OK done!",
-  "info_view_KYC_success_description": "KYC flow done"
+  "info_view_kyc_success_title": "OK done!",
+  "info_view_kyc_success_description": "KYC flow done"
 }
