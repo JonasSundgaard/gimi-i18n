@@ -1353,5 +1353,5 @@
   "kid_home_item_next_payday": "PLZ_TRANSLATE Next payday",
   "change_this_month": "PLZ_TRANSLATE Change %1$d",
   "err_fetching_card_balance": "PLZ_TRANSLATE Could not fetch card balance",
-  "custom_notification_card_has_arrived": "PLZ_TRANSLATE Har ditt kort kommit än"
+  "custom_notification_card_has_arrived": "PLZ_TRANSLATE Har ditt kort kommit än?"
 }

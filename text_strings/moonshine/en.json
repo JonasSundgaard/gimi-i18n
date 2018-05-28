@@ -1353,5 +1353,5 @@
   "kid_home_item_next_payday": "Next payday",
   "change_this_month": "Change %1$d",
   "err_fetching_card_balance": "Could not fetch card balance",
-  "custom_notification_card_has_arrived": "Har ditt kort kommit än"
+  "custom_notification_card_has_arrived": "Har ditt kort kommit än?"
 }
