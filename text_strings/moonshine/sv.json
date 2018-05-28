@@ -1353,5 +1353,11 @@
   "kid_home_item_next_payday": "Nästa payday",
   "change_this_month": "Förändring %1$d",
   "err_fetching_card_balance": "Could not fetch card balance",
-  "custom_notification_card_has_arrived": "Har ditt kort kommit än?"
+  "custom_notification_card_has_arrived": "Har ditt kort kommit än?",
+  "info_view_identity_not_correct_title": "We could not verify your identity",
+  "info_view_identity_not_correct_description": "We're sorry. If the name returned from your bank is not correct, we can't verify your identity, so we can't get you a card.",
+  "permission_request_sent": "Permission request sent!",
+  "permission_request_sent_description": "Now just sit tight and wait, when %1$d has accepted your request, we will notify you",
+  "info_view_KYC_success_title": "OK done!",
+  "info_view_KYC_success_description": "KYC flow done"
 }
