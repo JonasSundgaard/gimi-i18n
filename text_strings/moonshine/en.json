@@ -297,7 +297,7 @@
   "settings_for": "settings for %1$d",
   "permissions_camera": "access to camera",
   "permissions_photo": "access to gallery",
-  "kid_savings_subtitle": "Saved right now",
+  "kid_savings_subtitle": "Balance",
   "savings_per_month": "saved this month",
   "next_payout": "Payday",
   "will_be_payed_out_in_n_days": "will be paid out in %1$d days",
@@ -1350,5 +1350,6 @@
   "why_phone_number": "Why do we need your phone number? We use the phone number to connect you with your family and guarantee that there won't be connections with anyone outside the family.",
   "general_the_card": "The card",
   "general_the_savings_account": "The savings account",
-  "kid_home_item_next_payday": "Next payday"
+  "kid_home_item_next_payday": "Next payday",
+  "change_this_month": "Change %1$d"
 }

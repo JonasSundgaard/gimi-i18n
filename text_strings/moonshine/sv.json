@@ -297,7 +297,7 @@
   "settings_for": "inställningar för %1$d",
   "permissions_camera": "tillgång till kamera",
   "permissions_photo": "tillgång till galleri",
-  "kid_savings_subtitle": "Sparat just nu",
+  "kid_savings_subtitle": "Balance",
   "savings_per_month": "sparat denna månad",
   "next_payout": "payday",
   "will_be_payed_out_in_n_days": "kommer betalas ut om %1$d dagar",
@@ -1350,5 +1350,6 @@
   "why_phone_number": "Varför behöver vi ditt nummer? Vi använder telefonnumret för att koppla ihop dig med din familj, och garantera att det inte sker ihopkopplingar med någon utanför familjen.",
   "general_the_card": "The card",
   "general_the_savings_account": "The savings account",
-  "kid_home_item_next_payday": "Next payday"
+  "kid_home_item_next_payday": "Next payday",
+  "change_this_month": "Förändring %1$d"
 }

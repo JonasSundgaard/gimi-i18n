@@ -297,7 +297,7 @@
   "settings_for": "innstillninger for %1$d",
   "permissions_camera": "tilgang til kamera",
   "permissions_photo": "tilgång til galleri",
-  "kid_savings_subtitle": "Spart akkurat nå",
+  "kid_savings_subtitle": "PLZ_TRANSLATE Balance",
   "savings_per_month": "spart denne måneden",
   "next_payout": "payday",
   "will_be_payed_out_in_n_days": "vil bli betalt ut om %1$d dager",
@@ -1350,5 +1350,6 @@
   "why_phone_number": "PLZ_TRANSLATE Why do we need your phone number? We use the phone number to connect you with your family and guarantee that there won't be connections with anyone outside the family.",
   "general_the_card": "PLZ_TRANSLATE The card",
   "general_the_savings_account": "PLZ_TRANSLATE The savings account",
-  "kid_home_item_next_payday": "PLZ_TRANSLATE Next payday"
+  "kid_home_item_next_payday": "PLZ_TRANSLATE Next payday",
+  "change_this_month": "PLZ_TRANSLATE Change %1$d"
 }
