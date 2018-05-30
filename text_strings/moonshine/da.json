@@ -1381,5 +1381,6 @@
   "pin_code_change_succes": "PLZ_TRANSLATE Your pincode is changed!",
   "unfamiliar_device_pincode_error": "PLZ_TRANSLATE We cant change pincode, because this device is not familiar",
   "card_lost_stolen_confirmation_title": "PLZ_TRANSLATE Your new card is on it’s way!",
-  "card_lost_stolen_confirmation_text": "PLZ_TRANSLATE Don’t worry. Your old card has been disabled so your money is safe. You will need to activate your new card when it arrives before you can use it."
+  "card_lost_stolen_confirmation_text": "PLZ_TRANSLATE Don’t worry. Your old card has been disabled so your money is safe. You will need to activate your new card when it arrives before you can use it.",
+  "proof_required_chore_summary": "PLZ_TRANSLATE Proof required"
 }
