@@ -1287,8 +1287,8 @@
   "card_settings_active": "Card is active",
   "card_settings_online_payments": "Allow online payments",
   "card_settings_pin_reminder": "PIN reminder",
-  "card_settings_lost": "Lost card",
-  "card_settings_stolen": "Stolen card",
+  "card_settings_lost": "Card lost",
+  "card_settings_stolen": "Card stolen",
   "card_settings_spending_notifs": "Spending notifications",
   "general_info": "Info",
   "card_settings_terms": "Terms & Conditions",
@@ -1371,5 +1371,8 @@
   "what_are_chores_description": "Lorem Ipsum",
   "general_your_settings": "Your settings",
   "children_settings": "Children settings",
-  "other_settings": "Other stuff"
+  "other_settings": "Other stuff",
+  "card_stolen_popover_title": "You sure your card is stolen?",
+  "card_stolen_popover_text": "If you want to look for it, you can just block it for now and unblock it if you find it. If it's really stolen, we will disable this card and send you a new one!",
+  "card_stolen_popover_confirm": "It's stolen!"
 }

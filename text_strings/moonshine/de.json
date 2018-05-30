@@ -1371,5 +1371,8 @@
   "what_are_chores_description": "PLZ_TRANSLATE Lorem Ipsum",
   "general_your_settings": "PLZ_TRANSLATE Your settings",
   "children_settings": "PLZ_TRANSLATE Children settings",
-  "other_settings": "PLZ_TRANSLATE Other stuff"
+  "other_settings": "PLZ_TRANSLATE Other stuff",
+  "card_stolen_popover_title": "PLZ_TRANSLATE You sure your card is stolen?",
+  "card_stolen_popover_text": "PLZ_TRANSLATE If you want to look for it, you can just block it for now and unblock it if you find it. If it's really stolen, we will disable this card and send you a new one!",
+  "card_stolen_popover_confirm": "PLZ_TRANSLATE It's stolen!"
 }
