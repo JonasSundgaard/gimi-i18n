@@ -1,4 +1,6 @@
+
 {
+
   "name": "DKK",
   "incrementInterval": 5,
   "cheeseburgerValue": 10,
@@ -22,7 +24,7 @@
   "maximumSavingsBonusAmount": 10000,
   "minimumGoalAmount": 10,
   "maximumGoalAmount": 99999,
-  "minimumTaskAmount": 1,
+  "minimumTaskAmount": 0,
   "maximumTaskAmount": 9999,
   "minSavingsAccountBalance": -80000,
   "taskIncrementInterval": 1,
