@@ -1359,5 +1359,14 @@
   "permission_request_sent": "Permission request sent!",
   "permission_request_sent_description": "Now just sit tight and wait, when %1$d has accepted your request, we will notify you",
   "info_view_kyc_success_title": "OK done!",
-  "info_view_kyc_success_description": "KYC flow done"
+  "info_view_kyc_success_description": "KYC flow done",
+  "how_gimi_works": "Såhär funkar Gimi",
+  "question_how_chores_work": "Hur funkar uppgifter?",
+  "how_chores_work_description": "Lorem ipsum",
+  "question_what_is_payday": "Vad är Payday?",
+  "what_is_payday_description": "Lorem Ipsum",
+  "question_how_interest_works": "Hur funkar ränta?",
+  "how_interest_works_description": "Lorem Ipsum",
+  "question_what_are_chores": "Vad är uppgifter?",
+  "what_are_chores_description": "Lorem Ipsum"
 }
