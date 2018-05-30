@@ -1368,5 +1368,8 @@
   "question_how_interest_works": "Hur funkar ränta?",
   "how_interest_works_description": "Lorem Ipsum",
   "question_what_are_chores": "Vad är uppgifter?",
-  "what_are_chores_description": "Lorem Ipsum"
+  "what_are_chores_description": "Lorem Ipsum",
+  "general_your_settings": "Your settings",
+  "children_settings": "Children settings",
+  "other_settings": "Other stuff"
 }
