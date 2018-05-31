@@ -1,6 +1,6 @@
 {
   "name": "SEK",
-  "incrementInterval": 5,
+  "incrementInterval": 1,
   "cheeseburgerValue": 10,
   "spotifyValue": 100,
   "barcelonaValue": 700,
