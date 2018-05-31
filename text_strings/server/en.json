@@ -286,5 +286,6 @@
   "event_you_have_reached_a_dream_child": "PLZ_CHECK You have reached your dream",
   "event_done_with_chore_parent": "PLZ_CHECK {assignment.child.nickname} is done with {assignment.task.title}",
   "event_done_with_chore_child": "PLZ_CHECK You are done with {assignment.task.title}",
-  "push_tell_that_your_back": "{user.nickname} is back in the app and wants to get going again"
+  "push_tell_that_your_back": "{user.nickname} is back in the app and wants to get going again",
+  "push_payday_child": "Payday! You have received a payment to your Cloud!"
 }

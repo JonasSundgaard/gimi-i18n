@@ -286,5 +286,6 @@
   "event_you_have_reached_a_dream_child": "PLZ_TRANSLATE Du har nådd din drøm",
   "event_done_with_chore_parent": "PLZ_TRANSLATE {assignment.child.nickname} er ferdig med {assignment.task.title}",
   "event_done_with_chore_child": "PLZ_TRANSLATE Du er ferdig med {assignment.task.title}",
-  "push_tell_that_your_back": "PLZ_TRANSLATE {user.nickname} er tilbake i appen og ønsker å komme i gang igjen"
+  "push_tell_that_your_back": "PLZ_TRANSLATE {user.nickname} er tilbake i appen og ønsker å komme i gang igjen",
+  "push_payday_child": "PLZ_TRANSLATE Lønning! Du har mottatt en betaling til Cloud!"
 }

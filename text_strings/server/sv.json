@@ -286,5 +286,6 @@
   "event_you_have_reached_a_dream_child": "Du har nått din dröm",
   "event_done_with_chore_parent": "{assignment.child.nickname} är klar med {assignment.task.title}",
   "event_done_with_chore_child": "Du är klar med {assignment.task.title}",
-  "push_tell_that_your_back": "{user.nickname} är tillbaka i appen och vill komma igång igen"
+  "push_tell_that_your_back": "{user.nickname} är tillbaka i appen och vill komma igång igen",
+  "push_payday_child": "PLZ_TRANSLATE Avlöningsdag! Du har fått en betalning till ditt moln!"
 }

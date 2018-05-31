@@ -286,5 +286,6 @@
   "event_you_have_reached_a_dream_child": "Has alcanzado tu sueño",
   "event_done_with_chore_parent": "{assignment.child.nickname} terminó {assignment.task.title}",
   "event_done_with_chore_child": "Terminó {assignment.task.title}",
-  "push_tell_that_your_back": "{user.nickname} está de regreso en la aplicación y quiere comenzar de nuevo"
+  "push_tell_that_your_back": "{user.nickname} está de regreso en la aplicación y quiere comenzar de nuevo",
+  "push_payday_child": "PLZ_TRANSLATE ¡Día de paga! ¡Has recibido un pago en tu nube!"
 }

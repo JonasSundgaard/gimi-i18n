@@ -286,5 +286,6 @@
   "event_you_have_reached_a_dream_child": "Olet saavuttanut unelmasi",
   "event_done_with_chore_parent": "{assignment.child.nickname} on suorittanut tehtävän {assignment.task.title}",
   "event_done_with_chore_child": "Olet suorittanut tehtävän {assignment.task.title}",
-  "push_tell_that_your_back": "{user.nickname} on taas sovelluksen käyttäjä ja haluaisi aloittaa taas"
+  "push_tell_that_your_back": "{user.nickname} on taas sovelluksen käyttäjä ja haluaisi aloittaa taas",
+  "push_payday_child": "PLZ_TRANSLATE Palkkapäivä! Olet saanut maksun pilvisi!"
 }
