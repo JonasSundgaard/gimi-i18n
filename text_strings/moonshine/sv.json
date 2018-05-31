@@ -1383,5 +1383,9 @@
   "card_lost_stolen_confirmation_title": "Your new card is on it’s way!",
   "card_lost_stolen_confirmation_text": "Don’t worry. Your old card has been disabled so your money is safe. You will need to activate your new card when it arrives before you can use it.",
   "proof_required_chore_summary": "Proof required",
-  "general_no_active_goal": "No active goal yet"
+  "general_no_active_goal": "No active goal yet",
+  "something_went_wrong_parent": "Oh no...\nsomething went wrong",
+  "something_went_wrong_child": "Oh no...\nsomething went wrong",
+  "general_tell_us": "Tell us!",
+  "take_me_back": "Take me back!"
 }

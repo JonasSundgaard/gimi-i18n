@@ -1383,5 +1383,9 @@
   "card_lost_stolen_confirmation_title": "PLZ_TRANSLATE Your new card is on it’s way!",
   "card_lost_stolen_confirmation_text": "PLZ_TRANSLATE Don’t worry. Your old card has been disabled so your money is safe. You will need to activate your new card when it arrives before you can use it.",
   "proof_required_chore_summary": "PLZ_TRANSLATE Proof required",
-  "general_no_active_goal": "PLZ_TRANSLATE No active goal yet"
+  "general_no_active_goal": "PLZ_TRANSLATE No active goal yet",
+  "something_went_wrong_parent": "PLZ_TRANSLATE Oh no...\nsomething went wrong",
+  "something_went_wrong_child": "PLZ_TRANSLATE Oh no...\nsomething went wrong",
+  "general_tell_us": "PLZ_TRANSLATE Tell us!",
+  "take_me_back": "PLZ_TRANSLATE Take me back!"
 }
