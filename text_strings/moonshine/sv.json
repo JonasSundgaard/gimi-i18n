@@ -1402,5 +1402,6 @@
   "take_me_back": "Take me back!",
   "interest_from": "Ränta från %1$d",
   "weekly_allowance_from": "Veckopeng från %1$d",
-  "monthly_allowance_from": "Månadspeng från %1$d"
+  "monthly_allowance_from": "Månadspeng från %1$d",
+  "qr_code_error": "something is broken... plz try again later"
 }
