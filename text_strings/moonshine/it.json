@@ -1399,5 +1399,8 @@
   "something_went_wrong_parent": "PLZ_TRANSLATE Oh no...\nsomething went wrong",
   "something_went_wrong_child": "PLZ_TRANSLATE Oh no...\nsomething went wrong",
   "general_tell_us": "PLZ_TRANSLATE Tell us!",
-  "take_me_back": "PLZ_TRANSLATE Take me back!"
+  "take_me_back": "PLZ_TRANSLATE Take me back!",
+  "interest_from": "PLZ_TRANSLATE Ränta från %1$d",
+  "weekly_allowance_from": "PLZ_TRANSLATE Veckopeng från %1$d",
+  "monthly_allowance_from": "PLZ_TRANSLATE Månadspeng från %1$d"
 }

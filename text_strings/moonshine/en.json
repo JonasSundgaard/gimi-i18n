@@ -1399,5 +1399,8 @@
   "something_went_wrong_parent": "Oh no...\nsomething went wrong",
   "something_went_wrong_child": "Oh no...\nsomething went wrong",
   "general_tell_us": "Tell us!",
-  "take_me_back": "Take me back!"
+  "take_me_back": "Take me back!",
+  "interest_from": "Ränta från %1$d",
+  "weekly_allowance_from": "Veckopeng från %1$d",
+  "monthly_allowance_from": "Månadspeng från %1$d"
 }
