@@ -1403,5 +1403,6 @@
   "interest_from": "PLZ_TRANSLATE Ränta från %1$d",
   "weekly_allowance_from": "PLZ_TRANSLATE Veckopeng från %1$d",
   "monthly_allowance_from": "PLZ_TRANSLATE Månadspeng från %1$d",
-  "qr_code_error": "PLZ_TRANSLATE something is broken... plz try again later"
+  "qr_code_error": "PLZ_TRANSLATE something is broken... plz try again later",
+  "why_we_ask_for_phone": "PLZ_TRANSLATE Why do we need your number?"
 }

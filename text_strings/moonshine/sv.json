@@ -1403,5 +1403,6 @@
   "interest_from": "Ränta från %1$d",
   "weekly_allowance_from": "Veckopeng från %1$d",
   "monthly_allowance_from": "Månadspeng från %1$d",
-  "qr_code_error": "something is broken... plz try again later"
+  "qr_code_error": "something is broken... plz try again later",
+  "why_we_ask_for_phone": "Why do we need your number?"
 }
