@@ -1412,5 +1412,6 @@
   "payday_takeover_subtitle_kid": "You have earned...",
   "payday_takeover_title_parent": "Today is payday for %1$d!",
   "payday_takeover_text_parent": "%1$d has been added to the cloud",
-  "accept_email_contact": "Yes, you can contact me over e-mail"
+  "accept_email_contact": "Yes, you can contact me over e-mail",
+  "money_saved": "Saved"
 }
