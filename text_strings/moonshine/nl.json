@@ -1407,5 +1407,9 @@
   "why_we_ask_for_phone": "PLZ_TRANSLATE Why do we need your number?",
   "explainer_why_phone_title": "PLZ_TRANSLATE Do we really need your phone number",
   "explainer_why_phone_desc": "PLZ_TRANSLATE We use your phone number to connect you to your family, and make sure no one else gets access. You'll alos use it to log in to your Gimi account!",
-  "general_okay_nice": "PLZ_TRANSLATE OK, nice!"
+  "general_okay_nice": "PLZ_TRANSLATE OK, nice!",
+  "payday_takeover_title_kid": "PLZ_TRANSLATE Today is payday!🎉",
+  "payday_takeover_subtitle_kid": "PLZ_TRANSLATE You have earned...",
+  "payday_takeover_title_parent": "PLZ_TRANSLATE Today is payday for %1$d!",
+  "payday_takeover_text_parent": "PLZ_TRANSLATE %1$d has been added to the cloud"
 }
