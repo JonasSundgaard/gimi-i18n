@@ -1416,5 +1416,6 @@
   "money_saved": "Saved",
   "transaction_note_placeholder": "Write something memorable",
   "general_notes": "notes",
-  "completion_date": "Completion date"
+  "completion_date": "Completion date",
+  "activate_task_again": "Reactivate"
 }

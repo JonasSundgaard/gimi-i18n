@@ -1416,5 +1416,6 @@
   "money_saved": "PLZ_TRANSLATE Saved",
   "transaction_note_placeholder": "PLZ_TRANSLATE Write something memorable",
   "general_notes": "PLZ_TRANSLATE notes",
-  "completion_date": "PLZ_TRANSLATE Completion date"
+  "completion_date": "PLZ_TRANSLATE Completion date",
+  "activate_task_again": "PLZ_TRANSLATE Reactivate"
 }
