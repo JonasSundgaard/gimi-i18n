@@ -1413,5 +1413,7 @@
   "payday_takeover_title_parent": "PLZ_TRANSLATE Today is payday for %1$d!",
   "payday_takeover_text_parent": "PLZ_TRANSLATE %1$d has been added to the cloud",
   "accept_email_contact": "PLZ_TRANSLATE Yes, you can contact me over e-mail",
-  "money_saved": "PLZ_TRANSLATE Saved"
+  "money_saved": "PLZ_TRANSLATE Saved",
+  "transaction_note_placeholder": "PLZ_TRANSLATE Write something memorable",
+  "general_notes": "PLZ_TRANSLATE notes"
 }
