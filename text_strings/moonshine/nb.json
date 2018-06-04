@@ -1415,5 +1415,6 @@
   "accept_email_contact": "PLZ_TRANSLATE Yes, you can contact me over e-mail",
   "money_saved": "PLZ_TRANSLATE Saved",
   "transaction_note_placeholder": "PLZ_TRANSLATE Write something memorable",
-  "general_notes": "PLZ_TRANSLATE notes"
+  "general_notes": "PLZ_TRANSLATE notes",
+  "completion_date": "PLZ_TRANSLATE Completion date"
 }
