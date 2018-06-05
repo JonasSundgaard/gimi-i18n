@@ -860,7 +860,7 @@
   "card_activation_success_title": "korttisi on aktivoitu!",
   "card_activation_success_desc": "Hieno juttu! Voit nyt maksaa omilla rahoillasi",
   "upgraded_to_premium_done_title": "Se on siinä! Oletko valmis tutustumaan uuteen maailmaan?",
-  "upgraded_to_premium_done_desc": "saat korttisi muutaman päivän sisällä. Sillä välin katso uudet tilisi!",
+  "upgraded_to_premium_done_desc": "PLZ_TRANSLATE Your card will arrive in a few days. Don’t forget you app passcode!",
   "last_name_reminder": "Älä unohda sukunimeäsi!",
   "pig_home_screen_message_1": "Aloha",
   "pig_home_screen_message_2": "Hauska tutustua",
