@@ -1424,5 +1424,8 @@
   "gather_your_family_desc": "PLZ_TRANSLATE Bjud in barn och upptäck ett roligare och mer lärorikt sätt att hanter pengar tillsammans",
   "how_does_tasks_work": "PLZ_TRANSLATE Hur fungerar uppgifter?",
   "how_does_tasks_work_desc": "PLZ_TRANSLATE Barnen kan få uppgifter att utföra mot betalning, för att lära sig att tjäna pengar. Du eller barnet kan föreslå uppgifter!",
-  "add_chore_hint_kid_item": "PLZ_TRANSLATE Add a chore!"
+  "add_chore_hint_kid_item": "PLZ_TRANSLATE Add a chore!",
+  "invitation_reminder_title": "PLZ_TRANSLATE Want to send an invitation reminder?",
+  "invitation_reminder_text": "PLZ_TRANSLATE The person you tried to connect haven't yet accepted your invitation to connect. Let's send a reminder!",
+  "general_no_thanks": "PLZ_TRANSLATE No thanks"
 }
