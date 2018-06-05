@@ -1415,5 +1415,11 @@
   "premium_intro_main_desc_for_kid": "Get ready to handle real money!",
   "premium_intro_savings_desc_for_kid": "Your Cloud has been upgraded into a real savings account, and some new stuff in the app…",
   "premium_intro_card_desc_for_kid": "Start spending anywhere you want, but spend responsibly. Your card is on. it’s way!",
-  "you_need_to_set_pin": "You need a passcode"
+  "you_need_to_set_pin": "You need a passcode",
+  "more_than_allowance": "Mer än bara Veckopeng",
+  "more_than_allowance_desc": "Ge vecko- eller månadspeng, betala extra för uppgifter och sätt en egen ränta på sparpengarna.",
+  "you_are_the_bank": "Du är banken",
+  "you_are_the_bank_desc": "Barnen sparar i appen och du betalar ut pengarna när de vill köpa något. För att göra ett uttag eller insättning, så trycker du på den runda plus-knappen!",
+  "gather_your_family": "Samla familjen",
+  "gather_your_family_desc": "Bjud in barn och upptäck ett roligare och mer lärorikt sätt att hanter pengar tillsammans"
 }

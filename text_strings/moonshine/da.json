@@ -1415,5 +1415,11 @@
   "premium_intro_main_desc_for_kid": "PLZ_TRANSLATE Get ready to handle real money!",
   "premium_intro_savings_desc_for_kid": "PLZ_TRANSLATE Your Cloud has been upgraded into a real savings account, and some new stuff in the app…",
   "premium_intro_card_desc_for_kid": "PLZ_TRANSLATE Start spending anywhere you want, but spend responsibly. Your card is on. it’s way!",
-  "you_need_to_set_pin": "PLZ_TRANSLATE You need a passcode"
+  "you_need_to_set_pin": "PLZ_TRANSLATE You need a passcode",
+  "more_than_allowance": "PLZ_TRANSLATE Mer än bara Veckopeng",
+  "more_than_allowance_desc": "PLZ_TRANSLATE Ge vecko- eller månadspeng, betala extra för uppgifter och sätt en egen ränta på sparpengarna.",
+  "you_are_the_bank": "PLZ_TRANSLATE Du är banken",
+  "you_are_the_bank_desc": "PLZ_TRANSLATE Barnen sparar i appen och du betalar ut pengarna när de vill köpa något. För att göra ett uttag eller insättning, så trycker du på den runda plus-knappen!",
+  "gather_your_family": "PLZ_TRANSLATE Samla familjen",
+  "gather_your_family_desc": "PLZ_TRANSLATE Bjud in barn och upptäck ett roligare och mer lärorikt sätt att hanter pengar tillsammans"
 }
