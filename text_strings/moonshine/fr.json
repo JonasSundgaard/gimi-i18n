@@ -1421,5 +1421,7 @@
   "you_are_the_bank": "PLZ_TRANSLATE Du är banken",
   "you_are_the_bank_desc": "PLZ_TRANSLATE Barnen sparar i appen och du betalar ut pengarna när de vill köpa något. För att göra ett uttag eller insättning, så trycker du på den runda plus-knappen!",
   "gather_your_family": "PLZ_TRANSLATE Samla familjen",
-  "gather_your_family_desc": "PLZ_TRANSLATE Bjud in barn och upptäck ett roligare och mer lärorikt sätt att hanter pengar tillsammans"
+  "gather_your_family_desc": "PLZ_TRANSLATE Bjud in barn och upptäck ett roligare och mer lärorikt sätt att hanter pengar tillsammans",
+  "how_does_tasks_work": "PLZ_TRANSLATE Hur fungerar uppgifter?",
+  "how_does_tasks_work_desc": "PLZ_TRANSLATE Barnen kan få uppgifter att utföra mot betalning, för att lära sig att tjäna pengar. Du eller barnet kan föreslå uppgifter!"
 }
