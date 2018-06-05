@@ -1411,5 +1411,9 @@
   "transaction_note_placeholder": "PLZ_TRANSLATE Write something memorable",
   "general_notes": "PLZ_TRANSLATE notes",
   "completion_date": "PLZ_TRANSLATE Completion date",
-  "activate_task_again": "PLZ_TRANSLATE Reactivate"
+  "activate_task_again": "PLZ_TRANSLATE Reactivate",
+  "premium_intro_main_desc_for_kid": "PLZ_TRANSLATE Get ready to handle real money!",
+  "premium_intro_savings_desc_for_kid": "PLZ_TRANSLATE Your Cloud has been upgraded into a real savings account, and some new stuff in the app…",
+  "premium_intro_card_desc_for_kid": "PLZ_TRANSLATE Start spending anywhere you want, but spend responsibly. Your card is on. it’s way!",
+  "you_need_to_set_pin": "PLZ_TRANSLATE You need a passcode"
 }
