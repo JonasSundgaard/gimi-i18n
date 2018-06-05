@@ -1423,5 +1423,6 @@
   "gather_your_family": "PLZ_TRANSLATE Samla familjen",
   "gather_your_family_desc": "PLZ_TRANSLATE Bjud in barn och upptäck ett roligare och mer lärorikt sätt att hanter pengar tillsammans",
   "how_does_tasks_work": "PLZ_TRANSLATE Hur fungerar uppgifter?",
-  "how_does_tasks_work_desc": "PLZ_TRANSLATE Barnen kan få uppgifter att utföra mot betalning, för att lära sig att tjäna pengar. Du eller barnet kan föreslå uppgifter!"
+  "how_does_tasks_work_desc": "PLZ_TRANSLATE Barnen kan få uppgifter att utföra mot betalning, för att lära sig att tjäna pengar. Du eller barnet kan föreslå uppgifter!",
+  "add_chore_hint_kid_item": "PLZ_TRANSLATE Add a chore!"
 }
