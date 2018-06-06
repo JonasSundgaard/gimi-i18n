@@ -1,4 +1,5 @@
 {
+  "push_goal_created": "{goal.created_by.name} a créé un objectif d'épargne {goal.title}",
   "push_goal_completed_child": "Vous avez atteint votre objectif d'épargne {goal.title}",
   "push_goal_completed_parent": "{goal.child.name} a atteint son objectif d'épargne {goal.title}",
   "push_withdrawal_child": "{transaction.created_by.name} retirés {transaction.str_value} depuis la tirelire",

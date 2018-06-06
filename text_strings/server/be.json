@@ -1,4 +1,5 @@
 {
+  "push_goal_created": "PLZ_TRANSLATE {goal.created_by.name} has created the savings goal {goal.title}",
   "push_goal_completed_child": "PLZ_TRANSLATE You have reached your savings goal {goal.title}",
   "push_goal_completed_parent": "PLZ_TRANSLATE {goal.child.name} has reached the savings goal {goal.title}",
   "push_withdrawal_child": "PLZ_TRANSLATE {transaction.created_by.name} withdrew {transaction.str_value} from the piggy bank",

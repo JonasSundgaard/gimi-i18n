@@ -1,4 +1,5 @@
 {
+  "push_goal_created": "{goal.created_by.name} ha creado la meta de ahorro {goal.title}",
   "push_goal_completed_child": "Ha alcanzado su meta de ahorro {goal.title}",
   "push_goal_completed_parent": "{goal.child.name} alcanzó la meta de ahorro {goal.title}",
   "push_withdrawal_child": "{transaction.created_by.name} retiró {transaction.str_value} de la hucha",
