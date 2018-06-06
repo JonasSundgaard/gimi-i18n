@@ -1427,5 +1427,6 @@
   "add_chore_hint_kid_item": "Add a chore!",
   "invitation_reminder_title": "Want to send an invitation reminder?",
   "invitation_reminder_text": "The person you tried to connect haven't yet accepted your invitation to connect. Let's send a reminder!",
-  "general_no_thanks": "No thanks"
+  "general_no_thanks": "No thanks",
+  "available_balance": "available balance"
 }
