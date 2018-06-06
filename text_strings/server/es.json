@@ -1,4 +1,5 @@
 {
+  "push_child_transferred_to_savings": "{transaction.child.name} ahorró {transaction.str_value}",
   "push_goal_created": "{goal.created_by.name} ha creado la meta de ahorro {goal.title}",
   "push_goal_completed_child": "Ha alcanzado su meta de ahorro {goal.title}",
   "push_goal_completed_parent": "{goal.child.name} alcanzó la meta de ahorro {goal.title}",
