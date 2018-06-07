@@ -1398,6 +1398,10 @@
   "weekly_allowance_from": "Weekly pocket money from %1$d",
   "monthly_allowance_from": "Monthly pocket money from %1$d",
   "qr_code_error": "something has gone wrong... please try again later",
+  "interest_from": "PLZ_CHECK Ränta från %1$d",
+  "weekly_allowance_from": "PLZ_CHECK Veckopeng från %1$d",
+  "monthly_allowance_from": "PLZ_CHECK Månadspeng från %1$d",
+  "qr_code_error": "something is broken... please try again later",
   "why_we_ask_for_phone": "Why do we need your number?",
   "explainer_why_phone_title": "Do we really need your phone number?",
   "explainer_why_phone_desc": "We use your phone number to connect you to your family, and to make sure no one else gets access. You'll also use it to log in to your Gimi account!",
@@ -1424,6 +1428,14 @@
   "gather_your_family_desc": "Invite kids and discover a more fun and educational way to handle money together.",
   "how_does_tasks_work": "How does chores work?",
   "how_does_tasks_work_desc": "The children kan get chores to preform for a payment, to learn how to make money. You or the child can suggest chores!",
+  "more_than_allowance": "PLZ_CHECK Mer än bara Veckopeng",
+  "more_than_allowance_desc": "PLZ_CHECK Ge vecko- eller månadspeng, betala extra för uppgifter och sätt en egen ränta på sparpengarna.",
+  "you_are_the_bank": "PLZ_CHECK Du är banken",
+  "you_are_the_bank_desc": "PLZ_CHECK Barnen sparar i appen och du betalar ut pengarna när de vill köpa något. För att göra ett uttag eller insättning, så trycker du på den runda plus-knappen!",
+  "gather_your_family": "PLZ_CHECK Samla familjen",
+  "gather_your_family_desc": "PLZ_CHECK Bjud in barn och upptäck ett roligare och mer lärorikt sätt att hanter pengar tillsammans",
+  "how_does_tasks_work": "PLZ_CHECK Hur fungerar uppgifter?",
+  "how_does_tasks_work_desc": "PLZ_CHECK Barnen kan få uppgifter att utföra mot betalning, för att lära sig att tjäna pengar. Du eller barnet kan föreslå uppgifter!",
   "add_chore_hint_kid_item": "Add a chore!",
   "invitation_reminder_title": "Want to send an invitation reminder?",
   "invitation_reminder_text": "The person you tried to connect haven't yet accepted your invitation to connect. Let's send a reminder!",
@@ -1438,5 +1450,6 @@
   "general_thanks": "Thanks!",
   "asking_for_deposit_permission_subtitle_success_text": "%1$d will now be able to send money to %2$d.",
   "accepted_to_deposit_title": "You have been approved",
-  "accepted_to_deposit_text": "%1$d has approved that you can send money to %2$d. Now you need to register your card!"
+  "accepted_to_deposit_text": "%1$d has approved that you can send money to %2$d. Now you need to register your card!",
+  "available_balance": "available balance"
 }
