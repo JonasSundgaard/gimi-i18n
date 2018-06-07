@@ -1430,5 +1430,9 @@
   "general_no_thanks": "PLZ_TRANSLATE No thanks",
   "available_balance": "PLZ_TRANSLATE available balance",
   "permission_asked_success_title": "PLZ_TRANSLATE Done!",
-  "permission_asked_success_text": "PLZ_TRANSLATE Your request has been sent. We’ll let you know how it goes!"
+  "permission_asked_success_text": "PLZ_TRANSLATE Your request has been sent. We’ll let you know how it goes!",
+  "asking_for_deposit_permission_title": "PLZ_TRANSLATE %1$d wants permission to send money to %2$d",
+  "asking_for_deposit_permission_subtitle": "PLZ_TRANSLATE Do you approve?",
+  "general_no_way": "PLZ_TRANSLATE No way",
+  "general_yes_sure": "PLZ_TRANSLATE Yes, sure!"
 }

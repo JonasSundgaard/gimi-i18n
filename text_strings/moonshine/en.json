@@ -1430,5 +1430,9 @@
   "general_no_thanks": "No thanks",
   "available_balance": "available balance",
   "permission_asked_success_title": "Done!",
-  "permission_asked_success_text": "Your request has been sent. We’ll let you know how it goes!"
+  "permission_asked_success_text": "Your request has been sent. We’ll let you know how it goes!",
+  "asking_for_deposit_permission_title": "%1$d wants permission to send money to %2$d",
+  "asking_for_deposit_permission_subtitle": "Do you approve?",
+  "general_no_way": "No way",
+  "general_yes_sure": "Yes, sure!"
 }
