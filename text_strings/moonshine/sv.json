@@ -1440,5 +1440,6 @@
   "accepted_to_deposit_title": "You have been approved",
   "accepted_to_deposit_text": "%1$d has approved that you can send money to %2$d. Now you need to register your card!",
   "read_reviews": "read reviews",
-  "cloud_in_n_days": "läggs i molnet om %1$d dagar"
+  "cloud_in_n_days": "läggs i molnet om %1$d dagar",
+  "add_another_kid": "Add another child"
 }
