@@ -380,7 +380,6 @@
   "general_done_by": "done by",
   "general_to_be_done_by": "to be done by",
   "general_decline": "decline",
-  "nav_bar_notifications": "notifications",
   "nav_bar_statistics": "my stats",
   "add_expense": "add expense",
   "current_debt": "current debt",
@@ -1441,5 +1440,6 @@
   "accepted_to_deposit_text": "%1$d has approved that you can send money to %2$d. Now you need to register your card!",
   "read_reviews": "read reviews",
   "cloud_in_n_days": "added to the cloud in %1$d days",
-  "add_another_kid": "Add another child"
+  "add_another_kid": "Add another child",
+  "nav_bar_notifications": "notifications"
 }

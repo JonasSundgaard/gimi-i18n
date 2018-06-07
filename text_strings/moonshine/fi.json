@@ -380,7 +380,6 @@
   "general_done_by": "tehty viimeistään",
   "general_to_be_done_by": "tehtävä viimeistään",
   "general_decline": "pudotus",
-  "nav_bar_notifications": "uutiset",
   "nav_bar_statistics": "minun tilastoni",
   "add_expense": "lisää meno",
   "current_debt": "nykyinen velka",
@@ -1441,5 +1440,6 @@
   "accepted_to_deposit_text": "PLZ_TRANSLATE %1$d has approved that you can send money to %2$d. Now you need to register your card!",
   "read_reviews": "PLZ_TRANSLATE read reviews",
   "cloud_in_n_days": "PLZ_TRANSLATE added to the cloud in %1$d days",
-  "add_another_kid": "PLZ_TRANSLATE Add another child"
+  "add_another_kid": "PLZ_TRANSLATE Add another child",
+  "nav_bar_notifications": "PLZ_TRANSLATE notifications"
 }

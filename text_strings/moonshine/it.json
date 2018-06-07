@@ -380,7 +380,6 @@
   "general_done_by": "fatto da",
   "general_to_be_done_by": "deve essere fatto da",
   "general_decline": "rifiuta",
-  "nav_bar_notifications": "novità",
   "nav_bar_statistics": "le mie statistiche",
   "add_expense": "aggiungi spesa",
   "current_debt": "debito attuale",
@@ -1441,5 +1440,6 @@
   "accepted_to_deposit_text": "PLZ_TRANSLATE %1$d has approved that you can send money to %2$d. Now you need to register your card!",
   "read_reviews": "PLZ_TRANSLATE read reviews",
   "cloud_in_n_days": "PLZ_TRANSLATE added to the cloud in %1$d days",
-  "add_another_kid": "PLZ_TRANSLATE Add another child"
+  "add_another_kid": "PLZ_TRANSLATE Add another child",
+  "nav_bar_notifications": "PLZ_TRANSLATE notifications"
 }
