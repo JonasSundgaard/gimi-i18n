@@ -1434,5 +1434,7 @@
   "asking_for_deposit_permission_title": "PLZ_TRANSLATE %1$d wants permission to send money to %2$d",
   "asking_for_deposit_permission_subtitle": "PLZ_TRANSLATE Do you approve?",
   "general_no_way": "PLZ_TRANSLATE No way",
-  "general_yes_sure": "PLZ_TRANSLATE Yes, sure!"
+  "general_yes_sure": "PLZ_TRANSLATE Yes, sure!",
+  "general_thanks": "PLZ_TRANSLATE Thanks!",
+  "asking_for_deposit_permission_subtitle_success_text": "PLZ_TRANSLATE %1$d will now be able to send money to %2$d."
 }
