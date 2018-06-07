@@ -1439,5 +1439,6 @@
   "asking_for_deposit_permission_subtitle_success_text": "%1$d will now be able to send money to %2$d.",
   "accepted_to_deposit_title": "You have been approved",
   "accepted_to_deposit_text": "%1$d has approved that you can send money to %2$d. Now you need to register your card!",
-  "read_reviews": "read reviews"
+  "read_reviews": "read reviews",
+  "cloud_in_n_days": "added to the cloud in %1$d days"
 }
