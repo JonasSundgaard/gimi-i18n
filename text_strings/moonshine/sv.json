@@ -1428,5 +1428,7 @@
   "invitation_reminder_title": "Want to send an invitation reminder?",
   "invitation_reminder_text": "The person you tried to connect haven't yet accepted your invitation to connect. Let's send a reminder!",
   "general_no_thanks": "No thanks",
-  "available_balance": "tillgängligt saldo"
+  "available_balance": "tillgängligt saldo",
+  "permission_asked_success_title": "Done!",
+  "permission_asked_success_text": "Your request has been sent. We’ll let you know how it goes!"
 }

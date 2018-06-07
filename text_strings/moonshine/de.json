@@ -1428,5 +1428,7 @@
   "invitation_reminder_title": "PLZ_TRANSLATE Want to send an invitation reminder?",
   "invitation_reminder_text": "PLZ_TRANSLATE The person you tried to connect haven't yet accepted your invitation to connect. Let's send a reminder!",
   "general_no_thanks": "PLZ_TRANSLATE No thanks",
-  "available_balance": "PLZ_TRANSLATE available balance"
+  "available_balance": "PLZ_TRANSLATE available balance",
+  "permission_asked_success_title": "PLZ_TRANSLATE Done!",
+  "permission_asked_success_text": "PLZ_TRANSLATE Your request has been sent. We’ll let you know how it goes!"
 }
