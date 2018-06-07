@@ -573,8 +573,8 @@
   "spending_limits": "spending limits",
   "spending_limit_text": "This function enables you to receive a notification when your child reaches a spending limit. If you don't want to approve purchases over that limit you can easily block the card until you decide purchases can be made again.",
   "question_delete_connection": "do really want to remove %1$d as a contact?",
-  "deposit_permission": "permission to make deposits",
-  "question_deposit_permission_view_only": "before you can make deposits to %1$d, we need to ask the person who set up the Gimi Card for %2$d. Without permission you will only see already completed transactions.\n\nDo you want to ask for permission?",
+  "deposit_permission": "You need permission to send money.",
+  "question_deposit_permission_view_only": "Do you want to ask %1$d for permission to send money to Child? ",
   "without_permission_warning": "Without permission you will only be able to see already completed transactions.",
   "general_permission": "permission",
   "permission_deposit_permission": "before you can make deposits to %1$d, we need to ask the person who set up the Gimi Card for %2$d. Do you want to ask for permission?",
@@ -1428,5 +1428,7 @@
   "invitation_reminder_title": "Want to send an invitation reminder?",
   "invitation_reminder_text": "The person you tried to connect haven't yet accepted your invitation to connect. Let's send a reminder!",
   "general_no_thanks": "No thanks",
-  "available_balance": "available balance"
+  "available_balance": "available balance",
+  "permission_asked_success_title": "Done!",
+  "permission_asked_success_text": "Your request has been sent. We’ll let you know how it goes!"
 }
