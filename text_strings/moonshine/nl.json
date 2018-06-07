@@ -1438,5 +1438,6 @@
   "general_thanks": "PLZ_TRANSLATE Thanks!",
   "asking_for_deposit_permission_subtitle_success_text": "PLZ_TRANSLATE %1$d will now be able to send money to %2$d.",
   "accepted_to_deposit_title": "PLZ_TRANSLATE You have been approved",
-  "accepted_to_deposit_text": "PLZ_TRANSLATE %1$d has approved that you can send money to %2$d. Now you need to register your card!"
+  "accepted_to_deposit_text": "PLZ_TRANSLATE %1$d has approved that you can send money to %2$d. Now you need to register your card!",
+  "read_reviews": "PLZ_TRANSLATE read reviews"
 }

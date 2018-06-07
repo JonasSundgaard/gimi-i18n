@@ -1438,5 +1438,6 @@
   "general_thanks": "Tack!",
   "asking_for_deposit_permission_subtitle_success_text": "%1$d kommer nu kunna skicka pengar till %2$d.",
   "accepted_to_deposit_title": "You have been approved",
-  "accepted_to_deposit_text": "%1$d has approved that you can send money to %2$d. Now you need to register your card!"
+  "accepted_to_deposit_text": "%1$d has approved that you can send money to %2$d. Now you need to register your card!",
+  "read_reviews": "read reviews"
 }
