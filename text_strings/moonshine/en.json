@@ -674,7 +674,7 @@
   "add_pin_success_title": "Done! From now on you have a password.",
   "you_can_change_it_in_settings": "You can always change it in settings.",
   "question_how_to_pay": "How do you want to pay?",
-  "pay_for_card_options_description": "Payment method for Premium and monthly transfers. You can change this later.",
+  "pay_for_card_options_description": "Choose how you want to pay the monthly subscription and transfer allowance money",
   "payment_option_debit_card": "Debit card",
   "payment_option_swish_soon": "Swish: coming soon!",
   "payment_option_apple_pay_soon": "Apple Pay: coming soon!",
@@ -1441,5 +1441,8 @@
   "read_reviews": "read reviews",
   "cloud_in_n_days": "added to the cloud in %1$d days",
   "add_another_kid": "Add another child",
-  "nav_bar_notifications": "notifications"
+  "nav_bar_notifications": "notifications",
+  "general_coming_soon": "Coming soon",
+  "pay_via_debit_desc": "No credit cards accepted",
+  "payment_method_swish": "Swish"
 }

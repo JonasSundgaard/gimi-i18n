@@ -380,7 +380,6 @@
   "general_done_by": "gjord av",
   "general_to_be_done_by": "ska göras av",
   "general_decline": "avböj",
-  "nav_bar_notifications": "notiser",
   "nav_bar_statistics": "mina stats",
   "add_expense": "lägg till utgift",
   "current_debt": "nuvarande skuld",
@@ -675,7 +674,7 @@
   "add_pin_success_title": "Klart! Du har från och med nu en PIN-kod.",
   "you_can_change_it_in_settings": "Du kan alltid ändra den i dina inställningar.",
   "question_how_to_pay": "Hur vill du betala?",
-  "pay_for_card_options_description": "Betalsätt för Premium och månadsöverföringar. Du kan ändra detta senare.",
+  "pay_for_card_options_description": "Choose how you want to pay the monthly subscription and transfer allowance money",
   "payment_option_debit_card": "Debit-kort",
   "payment_option_swish_soon": "Swish - Kommer snart!",
   "payment_option_apple_pay_soon": "Apple pay - Kommer snart!",
@@ -1441,5 +1440,9 @@
   "accepted_to_deposit_text": "%1$d has approved that you can send money to %2$d. Now you need to register your card!",
   "read_reviews": "read reviews",
   "cloud_in_n_days": "läggs i molnet om %1$d dagar",
-  "add_another_kid": "Add another child"
+  "add_another_kid": "Add another child",
+  "nav_bar_notifications": "notiser",
+  "general_coming_soon": "Coming soon",
+  "pay_via_debit_desc": "No credit cards accepted",
+  "payment_method_swish": "Swish"
 }

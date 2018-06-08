@@ -380,7 +380,6 @@
   "general_done_by": "gjort av",
   "general_to_be_done_by": "skal gjøres av",
   "general_decline": "avslå",
-  "nav_bar_notifications": "merknader",
   "nav_bar_statistics": "mine stats",
   "add_expense": "legg til utgift",
   "current_debt": "nåværende gjeld",
@@ -675,7 +674,7 @@
   "add_pin_success_title": "Ferdig! Du har fra og med nå en PIN-kode.",
   "you_can_change_it_in_settings": "Du kan alltid endre den i dine innstillninger.",
   "question_how_to_pay": "Hvordan vil du betale?",
-  "pay_for_card_options_description": "Betalingsmuligheter for Premium og månedsoverføringer. Du kan endre dette senere.",
+  "pay_for_card_options_description": "PLZ_TRANSLATE Choose how you want to pay the monthly subscription and transfer allowance money",
   "payment_option_debit_card": "Debit-kort",
   "payment_option_swish_soon": "Swish - Kommer snart!",
   "payment_option_apple_pay_soon": "Apple pay - Kommer snart!",
@@ -1441,5 +1440,9 @@
   "accepted_to_deposit_text": "PLZ_TRANSLATE %1$d has approved that you can send money to %2$d. Now you need to register your card!",
   "read_reviews": "PLZ_TRANSLATE read reviews",
   "cloud_in_n_days": "PLZ_TRANSLATE added to the cloud in %1$d days",
-  "add_another_kid": "PLZ_TRANSLATE Add another child"
+  "add_another_kid": "PLZ_TRANSLATE Add another child",
+  "nav_bar_notifications": "merknader",
+  "general_coming_soon": "PLZ_TRANSLATE Coming soon",
+  "pay_via_debit_desc": "PLZ_TRANSLATE No credit cards accepted",
+  "payment_method_swish": "PLZ_TRANSLATE Swish"
 }

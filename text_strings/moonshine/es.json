@@ -674,7 +674,7 @@
   "add_pin_success_title": "¡Hecho!. Desde ahora tienes tu contraseña.",
   "you_can_change_it_in_settings": "Siempre puedes cambiar esto en la configuración.",
   "question_how_to_pay": "¿Cómo deseas pagar?",
-  "pay_for_card_options_description": "Método de pago para Premium y transferencias mensuales. Puedes cambiarlo después.",
+  "pay_for_card_options_description": "PLZ_TRANSLATE Choose how you want to pay the monthly subscription and transfer allowance money",
   "payment_option_debit_card": "Tarjeta de débito",
   "payment_option_swish_soon": "Swish: ¡próximamente!",
   "payment_option_apple_pay_soon": "Pago en Apple: ¡próximamente!",
@@ -1441,5 +1441,8 @@
   "read_reviews": "PLZ_TRANSLATE read reviews",
   "cloud_in_n_days": "PLZ_TRANSLATE added to the cloud in %1$d days",
   "add_another_kid": "PLZ_TRANSLATE Add another child",
-  "nav_bar_notifications": "PLZ_TRANSLATE notifications"
+  "nav_bar_notifications": "PLZ_TRANSLATE notifications",
+  "general_coming_soon": "PLZ_TRANSLATE Coming soon",
+  "pay_via_debit_desc": "PLZ_TRANSLATE No credit cards accepted",
+  "payment_method_swish": "PLZ_TRANSLATE Swish"
 }
