@@ -1442,13 +1442,11 @@
   "cloud_in_n_days": "aan de cloud toegevoegd binnen %1$d dagen",
   "add_another_kid": "Voeg een ander kind toe",
   "nav_bar_notifications": "meldingen",
-  "general_coming_soon": "PLZ_TRANSLATE Coming soon",
-  "pay_via_debit_desc": "PLZ_TRANSLATE No credit cards accepted",
-  "payment_method_swish": "PLZ_TRANSLATE Swish",
-  "update_card_details": "PLZ_TRANSLATE Update card details",
-  "general_error_message_dots": "PLZ_TRANSLATE something went wrong...",
-  "error_try_again_question": "PLZ_TRANSLATE maybe just try again?",
-  "general_try_again": "PLZ_TRANSLATE try again",
-  "dots_and_its_done": "PLZ_TRANSLATE ...and it's done!",
-  "transaction_to_reciever_success_text": "PLZ_TRANSLATE The money is already with the reciever."
+  "general_coming_soon": "Binnenkort beschikbaar",
+  "pay_via_debit_desc": "Creditcards worden niet geaccepteerd",
+  "payment_method_swish": "Swish",
+  "update_card_details": "Kaart details bijwerken",
+  "general_error_message_dots": "er ging iets mis...",
+  "error_try_again_question": "misschien probeer je het gewoon opnieuw?",
+  "general_try_again": "probeer opnieuw"
 }
