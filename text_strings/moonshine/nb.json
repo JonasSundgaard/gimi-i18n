@@ -574,7 +574,7 @@
   "spending_limit_text": "Denne funksjonen lar deg sette opp et notat då ditt barn når en kjøpegrense. Om du ikke vil tillate kjøp over denne grensen kan du enkelt sperre kortet til du syns at kjøp skal være tillat igjen.",
   "question_delete_connection": "vil du virkelig ta bort %1$d som kontakt?",
   "deposit_permission": "Du trenger tillatelse for å sende penger.",
-  "question_deposit_permission_view_only": "Vil du be %1$d for tillatelse til å sende penger til barnet?",
+  "question_deposit_permission_view_only": "Vil du be %1$d om tillatelse til å sende penger til barnet?",
   "without_permission_warning": "Utan tillåtelse har du endast möjlighet att följa transaktioner.",
   "general_permission": "tillatelse",
   "permission_deposit_permission": "før du kan gjennomføre innsettinger til %1$d, må vi spørre den voksne som satte opp ett Gimi-kort til %2$d. Vil du be om tillatelse?",
