@@ -1448,5 +1448,7 @@
   "update_card_details": "Update card details",
   "general_error_message_dots": "something went wrong...",
   "error_try_again_question": "maybe just try again?",
-  "general_try_again": "try again"
+  "general_try_again": "try again",
+  "dots_and_its_done": "...and it's done!",
+  "transaction_to_reciever_success_text": "The money is already with the reciever."
 }

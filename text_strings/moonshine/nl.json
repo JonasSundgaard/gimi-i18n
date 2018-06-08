@@ -1448,5 +1448,7 @@
   "update_card_details": "PLZ_TRANSLATE Update card details",
   "general_error_message_dots": "PLZ_TRANSLATE something went wrong...",
   "error_try_again_question": "PLZ_TRANSLATE maybe just try again?",
-  "general_try_again": "PLZ_TRANSLATE try again"
+  "general_try_again": "PLZ_TRANSLATE try again",
+  "dots_and_its_done": "PLZ_TRANSLATE ...and it's done!",
+  "transaction_to_reciever_success_text": "PLZ_TRANSLATE The money is already with the reciever."
 }
