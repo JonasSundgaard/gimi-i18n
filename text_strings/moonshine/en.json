@@ -1444,5 +1444,6 @@
   "nav_bar_notifications": "notifications",
   "general_coming_soon": "Coming soon",
   "pay_via_debit_desc": "No credit cards accepted",
-  "payment_method_swish": "Swish"
+  "payment_method_swish": "Swish",
+  "update_card_details": "Update card details"
 }

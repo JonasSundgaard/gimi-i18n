@@ -1444,5 +1444,6 @@
   "nav_bar_notifications": "notiser",
   "general_coming_soon": "Kommer snart",
   "pay_via_debit_desc": "Kreditkort accepteras ej",
-  "payment_method_swish": "Swish"
+  "payment_method_swish": "Swish",
+  "update_card_details": "Update card details"
 }

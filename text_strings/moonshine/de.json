@@ -1444,5 +1444,6 @@
   "nav_bar_notifications": "Neuigkeiten",
   "general_coming_soon": "PLZ_TRANSLATE Coming soon",
   "pay_via_debit_desc": "PLZ_TRANSLATE No credit cards accepted",
-  "payment_method_swish": "PLZ_TRANSLATE Swish"
+  "payment_method_swish": "PLZ_TRANSLATE Swish",
+  "update_card_details": "PLZ_TRANSLATE Update card details"
 }
