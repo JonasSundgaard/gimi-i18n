@@ -1358,7 +1358,7 @@
   "kid_home_item_next_payday": "PLZ_TRANSLATE Next payday",
   "change_this_month": "PLZ_TRANSLATE Change %1$d",
   "err_fetching_card_balance": "PLZ_TRANSLATE Could not fetch card balance",
-  "custom_notification_card_has_arrived": "PLZ_TRANSLATE Har ditt kort kommit än?",
+  "custom_notification_card_has_arrived": "PLZ_TRANSLATE Has your card arrived yet?",
   "info_view_identity_not_correct_title": "PLZ_TRANSLATE We could not verify your identity",
   "info_view_identity_not_correct_description": "PLZ_TRANSLATE We're sorry. If the name returned from your bank is not correct, we can't verify your identity, so we can't get you a card.",
   "permission_request_sent": "PLZ_TRANSLATE Permission request sent!",
