@@ -1445,5 +1445,8 @@
   "general_coming_soon": "Coming soon",
   "pay_via_debit_desc": "No credit cards accepted",
   "payment_method_swish": "Swish",
-  "update_card_details": "Update card details"
+  "update_card_details": "Update card details",
+  "general_error_message_dots": "something went wrong...",
+  "error_try_again_question": "maybe just try again?",
+  "general_try_again": "try again"
 }

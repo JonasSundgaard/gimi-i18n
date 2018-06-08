@@ -1441,5 +1441,12 @@
   "read_reviews": "Lees ervaringen",
   "cloud_in_n_days": "aan de cloud toegevoegd binnen %1$d dagen",
   "add_another_kid": "Voeg een ander kind toe",
-  "nav_bar_notifications": "meldingen"
+  "nav_bar_notifications": "meldingen",
+  "general_coming_soon": "PLZ_TRANSLATE Coming soon",
+  "pay_via_debit_desc": "PLZ_TRANSLATE No credit cards accepted",
+  "payment_method_swish": "PLZ_TRANSLATE Swish",
+  "update_card_details": "PLZ_TRANSLATE Update card details",
+  "general_error_message_dots": "PLZ_TRANSLATE something went wrong...",
+  "error_try_again_question": "PLZ_TRANSLATE maybe just try again?",
+  "general_try_again": "PLZ_TRANSLATE try again"
 }
