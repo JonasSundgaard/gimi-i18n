@@ -1448,5 +1448,7 @@
   "update_card_details": "Kaart details bijwerken",
   "general_error_message_dots": "er ging iets mis...",
   "error_try_again_question": "misschien probeer je het gewoon opnieuw?",
-  "general_try_again": "probeer opnieuw"
+  "general_try_again": "probeer opnieuw",
+  "transaction_to_reciever_success_text": "PLZ_TRANSLATE The money is already with the reciever.",
+  "dots_and_its_done": "PLZ_TRANSLATE ...and it's done!"
 }

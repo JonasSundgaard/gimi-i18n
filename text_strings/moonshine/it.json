@@ -1201,7 +1201,7 @@
   "revoke_permission_microphone": "Sei sicuro di voler abilitare l'accesso al microfono?",
   "revoke_permission_title": "La rimozione delle autorizzazioni può portare a eventi imprevisti",
   "request_permission_photo": "L'app richiede l'accesso alla galleria per poter aggiungere immagini a sogni, faccende e per aggiornare l'immagine del profilo",
-  "request_permission_title_photo":  L'app non ha il permesso di accedere alla galleria",
+  "request_permission_title_photo": "L'app non ha il permesso di accedere alla galleria",
   "revoke_permission_camera": "Sei sicuro di voler abilitare l'accesso alla fotocamera?",
   "revoke_permission_photo": "Sei sicuro di voler abilitare l'accesso alla galleria",
   "revoke_permission_notifications": "Sei sicuro di voler rimuovere l'autorizzazione per inviare notifiche",
@@ -1450,5 +1450,6 @@
   "error_try_again_question": "PLZ_TRANSLATE maybe just try again?",
   "general_try_again": "PLZ_TRANSLATE try again",
   "dots_and_its_done": "PLZ_TRANSLATE ...and it's done!",
-  "transaction_to_reciever_success_text": "PLZ_TRANSLATE The money is already with the reciever."
+  "transaction_to_reciever_success_text": "PLZ_TRANSLATE The money is already with the reciever.",
+  "general_settings": "PLZ_TRANSLATE settings"
 }
