@@ -518,7 +518,7 @@
   "connection_error_text": "check your Internet connection and try again.",
   "connection_error_retry": "try to connect again",
   "invite_error": "we were not able to send your invitation. Check your connection and try again.",
-  "login_again": "log in again",
+  "login_again": "log in",
   "invite_greeting_text": "to accept the invite, you need to log in to the Gimi app",
   "general_congrats": "congratulations!",
   "savings_bonus_text": "you have got %1$d in interest!",
