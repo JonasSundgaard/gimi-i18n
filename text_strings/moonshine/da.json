@@ -1459,5 +1459,9 @@
   "for_saving": "PLZ_TRANSLATE for saving",
   "do_you_want_to_pitch_in": "PLZ_TRANSLATE Do you want to pitch in?",
   "pitch_in_help": "PLZ_TRANSLATE Do you want to add %1$d and savings interest?",
-  "no_im_okay": "PLZ_TRANSLATE No, I'm ok"
+  "no_im_okay": "PLZ_TRANSLATE No, I'm ok",
+  "moonshine_under_construction_title": "PLZ_TRANSLATE Under construction!",
+  "moonshine_under_construction_text": "PLZ_TRANSLATE I’m sure you noticed we’ve been changing things around here, and everything has not been perfect. But we’re not done yet!\n\nOur team is working really hard to bring you new updates to the app, fixing bugs and building new features. We really hope you're going to like what's coming next!\n\nIn the meantime, let us know if something is not working, or if you're missing a feature that would make your life better. We'd love to build it for you!",
+  "philip_haglund_ceo_gimi": "PLZ_TRANSLATE Philip Haglund, CEO Gimi",
+  "got_it": "PLZ_TRANSLATE Got it"
 }
