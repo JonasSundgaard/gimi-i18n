@@ -1456,5 +1456,6 @@
   "general_recommendation": "PLZ_TRANSLATE Recommendation",
   "kid_also_connected_to": "PLZ_TRANSLATE %1$d is also connected to:",
   "kid_settup_current_settings": "PLZ_TRANSLATE %1$d has the following settings:",
-  "for_saving": "PLZ_TRANSLATE for saving"
+  "for_saving": "PLZ_TRANSLATE for saving",
+  "do_you_want_to_pitch_in": "PLZ_TRANSLATE Do you want to pitch in?"
 }
