@@ -1284,6 +1284,7 @@
   "go_back": "Gehe zurück",
   "parent_loading_screen_text": "Mit dem Cyberspace verbinden",
   "question_cancel_subscription": "Bist Du sicher, dass Du Dein Gimi Abonnement löschen möchtest?",
+  "cancel_subscription_descr": "PLZ_TRANSLATE The Gimi card will be irrevocably cancelled and %1$d Gimi account will be closed.",
   "general_yes_cancel": "Ja, löschen",
   "wrong_pin_entered": "Falscher Code",
   "pin_setup_done_descr": "Jetzt hast Du den App-Code. Merke ihn Dir. Wenn Du ihn ändern möchtest, gehe in die Einstellungen.",
@@ -1312,7 +1313,7 @@
   "feedback_thanks": "Großes Dankeschön!",
   "feedback_success_description": "Wir haben Dein Feedback erhalten, und wir werden hart daran arbeiten und unser Bestes geben, um Dich glücklich zu machen",
   "card_is_active": "Karte ist aktiv",
-  "general_card_pin": "Karten PIN,
+  "general_card_pin": "Karten PIN",
   "card_information": "Karteninfomation",
   "spending_limit_header": "Wie viel kann %1$d ausgeben?",
   "spending_period_header": "In welcher Zeit?",
@@ -1449,5 +1450,14 @@
   "error_try_again_question": "Vielleicht noch einmal probieren?",
   "general_try_again": "Nocheinmal versuchen",
   "dots_and_its_done": "...und es ist geschafft!",
-  "transaction_to_reciever_success_text": "Das Geld ist schon beim Empfänger."
+  "transaction_to_reciever_success_text": "Das Geld ist schon beim Empfänger.",
+  "you_been_connect_to_kid": "PLZ_TRANSLATE You've been connected to %1$d",
+  "kid_connections": "PLZ_TRANSLATE Connections",
+  "general_recommendation": "PLZ_TRANSLATE Recommendation",
+  "kid_also_connected_to": "PLZ_TRANSLATE %1$d is also connected to:",
+  "kid_settup_current_settings": "PLZ_TRANSLATE %1$d has the following settings:",
+  "for_saving": "PLZ_TRANSLATE for saving",
+  "do_you_want_to_pitch_in": "PLZ_TRANSLATE Do you want to pitch in?",
+  "pitch_in_help": "PLZ_TRANSLATE Do you want to add %1$d and savings interest?",
+  "no_im_okay": "PLZ_TRANSLATE No, I'm ok"
 }
