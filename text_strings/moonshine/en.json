@@ -1450,5 +1450,11 @@
   "error_try_again_question": "maybe just try again?",
   "general_try_again": "try again",
   "dots_and_its_done": "...and it's done!",
-  "transaction_to_reciever_success_text": "The money is already with the reciever."
+  "transaction_to_reciever_success_text": "The money is already with the reciever.",
+  "you_been_connect_to_kid": "You've been connected to %1$d",
+  "kid_connections": "Connections",
+  "kid_also_connected_to": "Kid is also connected to:",
+  "general_recommendation": "Recommendation",
+  "recommended_allowance_and_interest_info": "Our recommendation for %1$d is a %2$d of %3$d, and a savings interest of %4$d",
+  "setup_kid_allowance_and_interest": "Do you want to add a %1$d and savings interest?"
 }
