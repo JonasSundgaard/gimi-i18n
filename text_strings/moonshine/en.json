@@ -1458,5 +1458,6 @@
   "kid_settup_current_settings": "%1$d has the following settings:",
   "for_saving": "for saving",
   "do_you_want_to_pitch_in": "Do you want to pitch in?",
-  "pitch_in_help": "Do you want to add %1$d and savings interest?"
+  "pitch_in_help": "Do you want to add %1$d and savings interest?",
+  "no_im_okay": "No, I'm ok"
 }
