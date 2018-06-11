@@ -1455,5 +1455,6 @@
   "kid_connections": "Connections",
   "general_recommendation": "Recommendation",
   "kid_also_connected_to": "%1$d is also connected to:",
-  "kid_settup_current_settings": "%1$d has the following settings:"
+  "kid_settup_current_settings": "%1$d has the following settings:",
+  "for_saving": "for saving"
 }
