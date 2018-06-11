@@ -1454,5 +1454,6 @@
   "you_been_connect_to_kid": "PLZ_TRANSLATE You've been connected to %1$d",
   "kid_connections": "PLZ_TRANSLATE Connections",
   "general_recommendation": "PLZ_TRANSLATE Recommendation",
-  "kid_also_connected_to": "PLZ_TRANSLATE %1$d is also connected to:"
+  "kid_also_connected_to": "PLZ_TRANSLATE %1$d is also connected to:",
+  "kid_settup_current_settings": "PLZ_TRANSLATE %1$d has the following settings:"
 }

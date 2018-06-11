@@ -1454,5 +1454,6 @@
   "you_been_connect_to_kid": "You've been connected to %1$d",
   "kid_connections": "Connections",
   "general_recommendation": "Recommendation",
-  "kid_also_connected_to": "%1$d is also connected to:"
+  "kid_also_connected_to": "%1$d is also connected to:",
+  "kid_settup_current_settings": "%1$d has the following settings:"
 }
