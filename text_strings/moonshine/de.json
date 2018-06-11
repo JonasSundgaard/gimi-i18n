@@ -1454,7 +1454,5 @@
   "you_been_connect_to_kid": "PLZ_TRANSLATE You've been connected to %1$d",
   "kid_connections": "PLZ_TRANSLATE Connections",
   "kid_also_connected_to": "PLZ_TRANSLATE Kid is also connected to:",
-  "general_recommendation": "PLZ_TRANSLATE Recommendation",
-  "recommended_allowance_and_interest_info": "PLZ_TRANSLATE Our recommendation for %1$d is a %2$d of %3$d, and a savings interest of %4$d",
-  "setup_kid_allowance_and_interest": "PLZ_TRANSLATE Do you want to add a %1$d and savings interest?"
+  "general_recommendation": "PLZ_TRANSLATE Recommendation"
 }
