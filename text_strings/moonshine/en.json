@@ -1453,6 +1453,6 @@
   "transaction_to_reciever_success_text": "The money is already with the reciever.",
   "you_been_connect_to_kid": "You've been connected to %1$d",
   "kid_connections": "Connections",
-  "kid_also_connected_to": "Kid is also connected to:",
-  "general_recommendation": "Recommendation"
+  "general_recommendation": "Recommendation",
+  "kid_also_connected_to": "%1$d is also connected to:"
 }

@@ -1453,6 +1453,6 @@
   "transaction_to_reciever_success_text": "PLZ_TRANSLATE The money is already with the reciever.",
   "you_been_connect_to_kid": "PLZ_TRANSLATE You've been connected to %1$d",
   "kid_connections": "PLZ_TRANSLATE Connections",
-  "kid_also_connected_to": "PLZ_TRANSLATE Kid is also connected to:",
-  "general_recommendation": "PLZ_TRANSLATE Recommendation"
+  "general_recommendation": "PLZ_TRANSLATE Recommendation",
+  "kid_also_connected_to": "PLZ_TRANSLATE %1$d is also connected to:"
 }
