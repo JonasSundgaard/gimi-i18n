@@ -1464,5 +1464,6 @@
   "moonshine_under_construction_text": "I’m sure you noticed we’ve been changing things around here, and everything has not been perfect. But we’re not done yet!\n\nOur team is working really hard to bring you new updates to the app, fixing bugs and building new features. We really hope you're going to like what's coming next!\n\nIn the meantime, let us know if something is not working, or if you're missing a feature that would make your life better. We'd love to build it for you!",
   "philip_haglund_ceo_gimi": "Philip Haglund, CEO Gimi",
   "got_it": "Got it",
-  "confirm_age_of_n": "Confirm the age of %1$d"
+  "confirm_age_of_n": "Confirm the age of %1$d",
+  "error_message_exeded_min_savings_amount": "You have exeded the mininuum savings amount"
 }
