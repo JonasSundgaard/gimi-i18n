@@ -219,5 +219,13 @@
   "what.user": "Vad vill du göra?",
   "what.phone.number": "Vad är ditt telefonnummer?",
   "invite.code": "Kampanjkod",
-  "get.superskills": "Get financial superskills"
+  "get.superskills": "Get financial superskills",
+  "help.question.1": "Hur bjuder jag in mina föräldrar till appen?",
+  "help.answer.1": "1. Gå till fliken “Profil” \n2. Välj “Mina kontakter” \n3. Välj “Bjud in vuxen”\n4. Välj därefter “Scanna QR-kod” eller “Skicka meddelande”",
+  "help.question.2": "Hur föreslår jag en uppgift?",
+  "help.answer.2": "1. Gå till fliken “Tjäna” \n2. Tryck på “ny uppgift” längst ned \n3. Skapa en egen uppgift eller välj från populära \n4. Fyll i uppgiften och tryck på “OK”\n5. Utför uppgiften och vänta på godkännande",
+  "help.question.3": "Hur skapar jag ett konto?",
+  "help.answer.3": "1. Ladda ner appen \n2. Välj “Gå med” \n3. Följ instruktionerna",
+  "help.question.4": "Jag kan inte logga in, vad gör jag?",
+  "help.answer.4": "Att du inte kan logga in kan bero på flera saker. Börja med att dubbelkolla att du angivit rätt telefonnummer eller mejladress. Ibland kommer inte koden på en gång, vänta lite. Du kan alltid kontakta oss via vår chatt på hemsidan eller i appen (öppen vardagar 9-17) eller skicka ett mejl till hello@gimitheapp.com"
 }

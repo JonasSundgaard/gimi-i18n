@@ -216,5 +216,13 @@
   "what.user": "Vad vill du göra?",
   "what.phone.number": "Vad är ditt telefonnummer?",
   "invite.code": "Kampanjkod",
-  "get.superskills": "Get financial superskills"
+  "get.superskills": "Get financial superskills",
+  "help.question.1": "How do I invite my parents to the app",
+  "help.answer.1": "1. Go to the tab “Profile” \n 2. Select “My contacts” \n3. Select “Invite grown up”\n4. Select “Scan QR-code” or “Send message”",
+  "help.question.2": "How do I suggest a chore?",
+  "help.answer.2": "1. Go to the tab “Earn” \n2. Select “New chore” at the bottom of the page \n3. Create your own chore or select from popular ones \n4. Fill in the details and press “OK”\n5. Complete the chore and wait for approval",
+  "help.question.3": "How do I create an account?",
+  "help.answer.3": "1. Download the app \n2. Select “Join” \n3. Follow the instructions",
+  "help.question.4": "I can’t log in, what do I do?",
+  "help.answer.4": "If you can’t log in it can be due to many different reasons. Maybe you entered the wrong e-mail address or telephone number.\nIf you have problem logging in you can always contact us. Either via the chat in app or at the website (open at weekdays 9-17) or send us an e-mail at hello@gimitheapp.com"
 }
