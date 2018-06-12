@@ -1467,5 +1467,6 @@
   "confirm_age_of_n": "Confirm the age of %1$d",
   "error_message_exeded_min_savings_amount": "Du har övergått den minsta besparingsbeloppet",
   "premium_cant_withdraw": "PLZ_CHECK You can't withdraw money from %1$d",
-  "premium_cant_withdraw_description": "PLZ_CHECK Currently we don't support withdrawls from premium accounts. If you really need to withdraw money, please contact our support"
+  "premium_cant_withdraw_description": "PLZ_CHECK Currently we don't support withdrawls from premium accounts. If you really need to withdraw money, please contact our support",
+  "empty_state_for_kid": "It's empty here because you don't have any connections yet!"
 }
