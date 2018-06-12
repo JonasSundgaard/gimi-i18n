@@ -1465,5 +1465,6 @@
   "philip_haglund_ceo_gimi": "Philip Haglund, CEO Gimi",
   "got_it": "Got it",
   "confirm_age_of_n": "Confirm the age of %1$d",
-  "error_message_exeded_min_savings_amount": "Du har övergått den minsta besparingsbeloppet"
+  "error_message_exeded_min_savings_amount": "Du har övergått den minsta besparingsbeloppet",
+  "premium_cant_withdraw": "PLZ_CHECK You can't withdraw money from %1$d"
 }

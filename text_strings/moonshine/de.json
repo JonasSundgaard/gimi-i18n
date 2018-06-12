@@ -1461,9 +1461,10 @@
   "pitch_in_help": "Möchtest Du %1$d und einen Sparzins hinzufügen?",
   "no_im_okay": "Nein, alles ok.",
   "moonshine_under_construction_title": "In Bearbeitung!",
-  "moonshine_under_construction_text": "Ich bin mir sicher, dass du bemerkt hast, dass wir die Dinge hier verändert haben, und nicht alles war perfekt. Aber wir sind noch nicht fertig!\N\nUnser Team arbeitet hart daran, Dir neue Updates für die App zu bringen, Fehler zu beheben und neue Funktionen zu entwickeln. Wir hoffen wirklich, dass Dir gefallen wird, was als nächstes kommt!\N\nIn der Zwischenzeit lass uns wissen, wenn etwas nicht funktioniert oder wenn Dir eine Funktion fehlt, die Dein Leben verbessern würde. Wir würden sie gerne für Dich bauen!",
+  "moonshine_under_construction_text": "Ich bin mir sicher, dass du bemerkt hast, dass wir die Dinge hier verändert haben, und nicht alles war perfekt. Aber wir sind noch nicht fertig!\n\nUnser Team arbeitet hart daran, Dir neue Updates für die App zu bringen, Fehler zu beheben und neue Funktionen zu entwickeln. Wir hoffen wirklich, dass Dir gefallen wird, was als nächstes kommt!\n\nIn der Zwischenzeit lass uns wissen, wenn etwas nicht funktioniert oder wenn Dir eine Funktion fehlt, die Dein Leben verbessern würde. Wir würden sie gerne für Dich bauen!",
   "philip_haglund_ceo_gimi": "Philip Haglund, Geschäftsführer und Gründer Gimi",
   "got_it": "Verstanden",
   "confirm_age_of_n": "Bestätige die Identität von %1$d",
-  "error_message_exeded_min_savings_amount": "Du hast den maximalen Ersparnisbetrag überschritten"
+  "error_message_exeded_min_savings_amount": "Du hast den maximalen Ersparnisbetrag überschritten",
+  "premium_cant_withdraw": "PLZ_TRANSLATE You can't withdraw money from %1$d"
 }

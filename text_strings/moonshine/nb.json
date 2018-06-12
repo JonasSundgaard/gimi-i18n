@@ -1465,5 +1465,6 @@
   "philip_haglund_ceo_gimi": "PLZ_TRANSLATE Philip Haglund, CEO Gimi",
   "got_it": "PLZ_TRANSLATE Got it",
   "confirm_age_of_n": "PLZ_TRANSLATE Confirm the age of %1$d",
-  "error_message_exeded_min_savings_amount": "PLZ_TRANSLATE You have exeded the mininuum savings amount"
+  "error_message_exeded_min_savings_amount": "PLZ_TRANSLATE You have exeded the mininuum savings amount",
+  "premium_cant_withdraw": "PLZ_TRANSLATE You can't withdraw money from %1$d"
 }
