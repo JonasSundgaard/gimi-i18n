@@ -1466,5 +1466,6 @@
   "got_it": "Verstanden",
   "confirm_age_of_n": "Bestätige die Identität von %1$d",
   "error_message_exeded_min_savings_amount": "Du hast den maximalen Ersparnisbetrag überschritten",
-  "premium_cant_withdraw": "PLZ_TRANSLATE You can't withdraw money from %1$d"
+  "premium_cant_withdraw": "PLZ_TRANSLATE You can't withdraw money from %1$d",
+  "premium_cant_withdraw_description": "PLZ_TRANSLATE Currently we don't support withdrawls from premium accounts. If you really need to withdraw money, please contact our support"
 }

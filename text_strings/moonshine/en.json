@@ -1466,5 +1466,6 @@
   "got_it": "Got it",
   "confirm_age_of_n": "Confirm the age of %1$d",
   "error_message_exeded_min_savings_amount": "You have exeded the mininuum savings amount",
-  "premium_cant_withdraw": "You can't withdraw money from %1$d"
+  "premium_cant_withdraw": "You can't withdraw money from %1$d",
+  "premium_cant_withdraw_description": "Currently we don't support withdrawls from premium accounts. If you really need to withdraw money, please contact our support"
 }
