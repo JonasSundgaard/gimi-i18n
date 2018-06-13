@@ -1468,5 +1468,7 @@
   "error_message_exeded_min_savings_amount": "Du har övergått den minsta besparingsbeloppet",
   "premium_cant_withdraw": "PLZ_CHECK You can't withdraw money from %1$d",
   "premium_cant_withdraw_description": "PLZ_CHECK Currently we don't support withdrawls from premium accounts. If you really need to withdraw money, please contact our support",
-  "empty_state_for_kid": "It's empty here because you don't have any connections yet!"
+  "empty_state_for_kid": "It's empty here because you don't have any connections yet!",
+  "general_problem_PFS": "PLZ_CHECK Det var ett problem med PFS",
+  "general_problem_description_PFS": "PLZ_CHECK Problem som uppstår ber vi dig kontakta vårt support"
 }

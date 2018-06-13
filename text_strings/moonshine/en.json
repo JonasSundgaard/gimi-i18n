@@ -1468,5 +1468,7 @@
   "error_message_exeded_min_savings_amount": "You have exeded the mininuum savings amount",
   "premium_cant_withdraw": "You can't withdraw money from %1$d",
   "premium_cant_withdraw_description": "Currently we don't support withdrawls from premium accounts. If you really need to withdraw money, please contact our support",
-  "empty_state_for_kid": "It's empty here because you don't have any connections yet!"
+  "empty_state_for_kid": "It's empty here because you don't have any connections yet!",
+  "general_problem_PFS": "There was a problem with PFS",
+  "general_problem_description_PFS": "Problem encountered please contact our support"
 }
