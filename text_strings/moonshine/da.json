@@ -1470,5 +1470,6 @@
   "premium_cant_withdraw_description": "PLZ_TRANSLATE Currently we don't support withdrawls from premium accounts. If you really need to withdraw money, please contact our support",
   "empty_state_for_kid": "PLZ_TRANSLATE It's empty here because you don't have any connections yet!",
   "general_problem_PFS": "PLZ_TRANSLATE There was a problem with PFS",
-  "general_problem_description_PFS": "PLZ_TRANSLATE Problem encountered please contact our support"
+  "general_problem_description_PFS": "PLZ_TRANSLATE Problem encountered please contact our support",
+  "general_contact_intercom": "PLZ_TRANSLATE Contact Support"
 }
