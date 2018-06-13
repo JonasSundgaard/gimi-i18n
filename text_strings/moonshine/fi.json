@@ -1475,5 +1475,5 @@
   "not_completed_chore": "PLZ_TRANSLATE Not completed",
   "recurring_chore_title": "PLZ_TRANSLATE which day?",
   "recurring_chore_subtitle": "PLZ_TRANSLATE The chore is activated every...",
-  "word_from_ceo": "PLZ_TRANSLATE Word from the CEO"
+  "custom_notification_word_from_ceo": "PLZ_TRANSLATE Word from the CEO"
 }
