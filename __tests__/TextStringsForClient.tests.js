@@ -3,6 +3,7 @@
 import {getTextStrings, supportedLanguageCodes, gimiWebLanguageCodes, moonshineCountryCodes} from '../index'
 import {compareKeys, findDuplicateKeyValues, findDuplicateJSONKeys, compareDollarSigns, checkBirgittaInconsistencies, checkStringLenght} from '../TestUtil'
 import fs from 'fs'
+import * as path from 'path'
 
 jest.disableAutomock()
 
@@ -22,13 +23,13 @@ describe('TextStrings', () => {
 
   it('should not allow duplicate keys in JSON', () => {
     gimiWebLanguageCodes.forEach(lang => {
-      var fileText = fs.readFileSync(`./src/i18n/text_strings/gimi-web-redux/${lang}.json`, {encoding: 'utf8'}).split('\n')
+      var fileText = fs.readFileSync(path.join(__dirname, `../text_strings/gimi-web-redux/${lang}.json`), {encoding: 'utf8'}).split('\n')
       let errors = findDuplicateJSONKeys(fileText, [])
       expect(errors).toEqual([])
     })
 
     moonshineCountryCodes.forEach(lang => {
-      var fileText = fs.readFileSync(`./src/i18n/text_strings/moonshine/${lang}.json`, {encoding: 'utf8'}).split('\n')
+      var fileText = fs.readFileSync(path.join(__dirname, `../text_strings/moonshine/${lang}.json`), {encoding: 'utf8'}).split('\n')
       let errors = findDuplicateJSONKeys(fileText, [])
       expect(errors).toEqual([])
     })
