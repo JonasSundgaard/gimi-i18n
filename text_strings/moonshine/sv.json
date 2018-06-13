@@ -1472,5 +1472,7 @@
   "general_problem_PFS": "PLZ_CHECK Det var ett problem med PFS",
   "general_problem_description_PFS": "PLZ_CHECK Problem som uppstår ber vi dig kontakta vårt support",
   "general_contact_intercom": "PLZ_CHECK Kontakta supporten",
-  "not_completed_chore": "Not completed"
+  "not_completed_chore": "Not completed",
+  "recurring_chore_title": "which day?",
+  "recurring_chore_subtitle": "The chore is activated every..."
 }

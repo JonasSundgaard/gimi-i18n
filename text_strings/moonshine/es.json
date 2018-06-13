@@ -1472,5 +1472,7 @@
   "general_problem_PFS": "PLZ_TRANSLATE There was a problem with PFS",
   "general_problem_description_PFS": "PLZ_TRANSLATE Problem encountered please contact our support",
   "general_contact_intercom": "PLZ_TRANSLATE Contact Support",
-  "not_completed_chore": "PLZ_TRANSLATE Not completed"
+  "not_completed_chore": "PLZ_TRANSLATE Not completed",
+  "recurring_chore_title": "PLZ_TRANSLATE which day?",
+  "recurring_chore_subtitle": "PLZ_TRANSLATE The chore is activated every..."
 }
