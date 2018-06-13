@@ -1471,5 +1471,6 @@
   "empty_state_for_kid": "It's empty here because you don't have any connections yet!",
   "general_problem_PFS": "There was a problem with PFS",
   "general_problem_description_PFS": "Problem encountered please contact our support",
-  "general_contact_intercom": "Contact Support"
+  "general_contact_intercom": "Contact Support",
+  "not_completed_chore": "Not completed"
 }

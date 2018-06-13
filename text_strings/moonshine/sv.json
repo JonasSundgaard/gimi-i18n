@@ -1471,5 +1471,6 @@
   "empty_state_for_kid": "It's empty here because you don't have any connections yet!",
   "general_problem_PFS": "PLZ_CHECK Det var ett problem med PFS",
   "general_problem_description_PFS": "PLZ_CHECK Problem som uppstår ber vi dig kontakta vårt support",
-  "general_contact_intercom": "PLZ_CHECK Kontakta supporten"
+  "general_contact_intercom": "PLZ_CHECK Kontakta supporten",
+  "not_completed_chore": "Not completed"
 }
