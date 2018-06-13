@@ -49,6 +49,21 @@ export let findDuplicateKeyValues = (firstLang: Object, secondLang: Object, firs
   expect(errorMessages).toEqual([])
 }
 
+export let findDuplicateJSONKeys = (fileText: Array, errors: Array) => {
+  let keys = fileText.map(line => {
+    let keyValue = line.split(':')
+    return keyValue[0]
+  })
+
+  let sortedKeys = keys.sort()
+
+  for (let i = 0; i < sortedKeys.length - 1; i++)
+    if (sortedKeys[i + 1] === sortedKeys[i])
+      errors.push(sortedKeys[i])
+
+  return errors
+}
+
 export let compareDollarSigns = (firstLang: Object, secondLang: Object, firstLangName: string = '', secondLangName: string = '', template: string = '$') => {
   var keys = Object.keys(firstLang)
   var errorMessages = []

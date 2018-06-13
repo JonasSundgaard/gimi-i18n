@@ -1,11 +1,13 @@
 
 /* eslint no-console:0 */
-import {getTextStrings, supportedLanguageCodes, moonshineCountryCodes} from '../index'
-import {compareKeys, findDuplicateKeyValues, compareDollarSigns, checkBirgittaInconsistencies, checkStringLenght} from '../TestUtil'
+import {getTextStrings, supportedLanguageCodes, gimiWebLanguageCodes, moonshineCountryCodes} from '../index'
+import {compareKeys, findDuplicateKeyValues, findDuplicateJSONKeys, compareDollarSigns, checkBirgittaInconsistencies, checkStringLenght} from '../TestUtil'
+import fs from 'fs'
+
 jest.disableAutomock()
 
 describe('TextStrings', () => {
-  it('it should return Text Strings', () => {
+  it('should return Text Strings', () => {
     supportedLanguageCodes.forEach(lang => expect(getTextStrings(lang)).not.toEqual(undefined, 'Cant find TextStrings for: ' + lang))
   })
 
@@ -15,6 +17,20 @@ describe('TextStrings', () => {
         compareKeys(getTextStrings(lang1), getTextStrings(lang2), lang1, lang2)
         if (!moonshineCountryCodes.includes(lang1)) findDuplicateKeyValues(getTextStrings(lang1), getTextStrings(lang2), lang1, lang2)
       })
+    })
+  })
+
+  it('should not allow duplicate keys in JSON', () => {
+    gimiWebLanguageCodes.forEach(lang => {
+      var fileText = fs.readFileSync(`./src/i18n/text_strings/gimi-web-redux/${lang}.json`, {encoding: 'utf8'}).split('\n')
+      let errors = findDuplicateJSONKeys(fileText, [])
+      expect(errors).toEqual([])
+    })
+
+    moonshineCountryCodes.forEach(lang => {
+      var fileText = fs.readFileSync(`./src/i18n/text_strings/moonshine/${lang}.json`, {encoding: 'utf8'}).split('\n')
+      let errors = findDuplicateJSONKeys(fileText, [])
+      expect(errors).toEqual([])
     })
   })
 

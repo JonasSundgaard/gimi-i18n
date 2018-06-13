@@ -9,6 +9,8 @@ import fi from './text_strings/moonshine/fi.json'
 import it from './text_strings/moonshine/it.json'
 import es from './text_strings/moonshine/es.json'
 import de from './text_strings/moonshine/de.json'
+import svWeb from './text_strings/gimi-web-redux/sv.json'
+import enWeb from './text_strings/gimi-web-redux/en.json'
 import _default from './text_strings/client/default.json'
 
 // calendar
@@ -38,6 +40,7 @@ import countryCodes2PhoneNumberPrefixes from './countryCodes2PhoneNumberPrefixes
 import ExchangeRates from './ExchangeRates'
 import DefaultCurrencies from './DefaultCurrencies'
 export var supportedLanguageCodes = ['da', 'fi', 'sv', 'nb', 'en', 'fr', 'nl', 'be', 'it', 'es', 'de', 'et']
+export var gimiWebLanguageCodes = ['en', 'sv']
 export var supportedTimeZonesAndroid =
   ['Europe/Stockholm', 'Europe/Oslo', 'Europe/Helsinki', 'Europe/Copenhagen', 'Europe/Prague', 'Europe/London', 'America/New_York', 'America/Los_Angeles',
     'America/Vancouver', 'America/Panama', 'Pacific/Guam', 'Pacific/Palau', 'America/Puerto_Rico', 'Africa/Windhoek', 'Australia/Sydney', 'America/Toronto',
@@ -70,7 +73,7 @@ export let getSupportedCurrencyInfos = (): Array<{code: string, name: string}> =
 
 export let getTextStrings = (lang: string) => {
   // lang = 'sv'// ONLY SV IN MOOMSHINE TODO: Needs to be remove later
-  switch (lang.substring(0, 2)) {
+  switch (lang) {
     case 'sv' : return {..._default, ...sv} // sweden
     case 'nb' :
     case 'nn' : return {..._default, ...no} // norway
@@ -81,6 +84,8 @@ export let getTextStrings = (lang: string) => {
     case 'it' : return {..._default, ...it} // italian
     case 'es' : return {..._default, ...es} // spanish
     case 'de' : return {..._default, ...de} // german
+    case 'svWeb' : return svWeb //
+    case 'enWeb' : return enWeb //
     default : return {..._default, ...en}
   }
 }
