@@ -649,7 +649,7 @@
   "add_pin_description_for_parent": "Från och med nu kommer du att behöva skriva in din kod för att kunna se saldo och transaktioner för ditt barn.",
   "proof_required": "Bildbevis",
   "missing_camera_desc": "Utan tillgång till kameran kan du inte ta en bild",
-  "general_pin": "PIN-kod",
+  "general_pin": "kod",
   "premium_account_created": "Ditt Premiumkonto har skapats",
   "permission_kid_gets_card": "Din kontakt %1$d ska få ett Gimi-kort och börjar därför hantera riktiga pengar. Du kommer inte längre kunna skicka %1$d virtuella pengar till molnet.\n\nFör att du ska kunna skicka riktiga pengar behöver du be %2$d om tillåtelse. Utan tillåtelse kommer du inte kunna göra några insättningar.\n\nVill du fråga om tillåtelse?",
   "permission_parent_deposit": "%1$d ber om tillåtelse att skicka riktiga pengar till %2$d. Vill du tillåta det?",
