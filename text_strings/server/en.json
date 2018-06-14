@@ -15,6 +15,8 @@
   "push_assignment_rejected": "The chore {assignment.task.title} was rejected. Try again",
   "push_assignment_approved": "Congratulations! {assignment.approved_by.name} has just approved the chore {assignment.task.title}! ({assignment.str_value})",
   "push_insertion_by_other": "Lovely! {transaction.created_by.name} added {transaction.str_value} into your piggy bank",
+  "event_payday_interest": "Next payment has been added to your savings",
+  "event_payday_chore_reward": "Next payment has been added to your savings",
   "push_account_select_started": "Registration of the bank account is under way",
   "push_parent_account_selected": "Your bank account is now activated",
   "push_child_account_selected": "{child.name}'s bank account is now activated",

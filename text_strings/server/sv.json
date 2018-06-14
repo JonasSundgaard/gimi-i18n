@@ -15,6 +15,8 @@
   "push_assignment_rejected": "Uppgiften {assignment.task.title} blev tyvärr inte godkänd. Försök igen",
   "push_assignment_approved": "Grattis! {assignment.approved_by.name} godkände precis {assignment.task.title} ({assignment.str_value})",
   "push_insertion_by_other": "Najs! {transaction.created_by.name} satte precis in {transaction.str_value} i din spargris",
+  "event_payday_interest": "Payday! Pengarna har flyttats till Molnet",
+  "event_payday_chore_reward": "Payday! Pengarna har flyttats till Molnet",
   "push_account_select_started": "Registrering av bankkonto är igång",
   "push_parent_account_selected": "Ditt bankkonto är aktiverat",
   "push_child_account_selected": "{child.name}s bankkonto är aktiverat",

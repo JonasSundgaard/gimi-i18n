@@ -15,6 +15,8 @@
   "push_assignment_rejected": "Askaretta {assignment.task.title} ei valitettavasti hyväksytty. Yritä uudelleen",
   "push_assignment_approved": "Onnea! {assignment.approved_by.name} hyväksyi juuri {assignment.task.title} ({assignment.str_value})",
   "push_insertion_by_other": "Vau! {transaction.created_by.name} laittoi juuri {transaction.str_value} säästöpossuusi",
+  "event_payday_interest": "PLZ_TRANSLATE Next payment has been added to your savings",
+  "event_payday_chore_reward": "PLZ_TRANSLATE Next payment has been added to your savings",
   "push_account_select_started": "Pankkitilin rekisteröinti on käynnissä",
   "push_parent_account_selected": "Pankkitili on aktivoitu",
   "push_child_account_selected": "({child.name}) pankkitili on nyt aktivoitu",

@@ -15,6 +15,8 @@
   "push_assignment_rejected": "Il compito di {assignment.task.title} è stato rifiutato. Provaci ancora",
   "push_assignment_approved": "Congratulazioni! {assignment.approved_by.name} ha appena approvato il compito di {assignment.task.title}! ({assignment.str_value})",
   "push_insertion_by_other": "Bello! {transaction.created_by.name} ha aggiunto {transaction.str_value} al salvadanaio",
+  "event_payday_interest": "PLZ_TRANSLATE Next payment has been added to your savings",
+  "event_payday_chore_reward": "PLZ_TRANSLATE Next payment has been added to your savings",
   "push_account_select_started": "La registrazione del conto corrente è in corso",
   "push_parent_account_selected": "Il tuo conto corrente è stato attivato",
   "push_child_account_selected": "Il conto corrente di  {child.name} è ora attivo",
