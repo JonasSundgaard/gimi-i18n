@@ -1476,5 +1476,6 @@
   "recurring_chore_title": "which day?",
   "recurring_chore_subtitle": "The chore is activated every...",
   "custom_notification_word_from_ceo": "PLZ_CHECK Word from the CEO",
-  "pin_code_doesnt_match_old_error": "PLZ_CHECK PIN-code does not match the old."
+  "pin_code_doesnt_match_old_error": "PLZ_CHECK PIN-code does not match the old.",
+  "choose_recurring_day_explainer": "Chores are activated weekly, every Friday. You can assign them specific days, but they will be visible all week. Want a weekly chore? Just assign it to Friday!"
 }
