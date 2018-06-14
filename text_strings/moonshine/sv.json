@@ -1475,5 +1475,6 @@
   "not_completed_chore": "Not completed",
   "recurring_chore_title": "which day?",
   "recurring_chore_subtitle": "The chore is activated every...",
-  "custom_notification_word_from_ceo": "PLZ_CHECK Word from the CEO"
+  "custom_notification_word_from_ceo": "PLZ_CHECK Word from the CEO",
+  "pin_code_doesnt_match_old_error": "PLZ_CHECK PIN-code does not match the old."
 }
