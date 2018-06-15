@@ -1505,5 +1505,10 @@
   "connecting_bank_id_texts_5": "Elon musk calculates...",
   "connecting_bank_id_texts_6": "Scanning cyber space...",
   "connecting_bank_id_texts_7": "Gimi thinks...",
-  "connecting_bank_id_texts_8": "this should take time..."
+  "connecting_bank_id_texts_8": "this should take time...",
+  "your_weekly_allowance": "Your weekly allowance",
+  "your_monthly_allowance": "Your monthly allowance",
+  "kid_welcome_weekly_allowance_description": "This is what you are garanteed every week on payday.",
+  "kid_welcome_monthly_allowance_description": "This is what you are garanteed every month on payday.",
+  "kid_welcome_suggest_button": "Suggest a chore"
 }

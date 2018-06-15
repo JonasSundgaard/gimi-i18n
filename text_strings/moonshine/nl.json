@@ -1505,5 +1505,10 @@
   "connecting_bank_id_texts_5": "PLZ_TRANSLATE Elon musk calculates...",
   "connecting_bank_id_texts_6": "PLZ_TRANSLATE Scanning cyber space...",
   "connecting_bank_id_texts_7": "PLZ_TRANSLATE Gimi thinks...",
-  "connecting_bank_id_texts_8": "PLZ_TRANSLATE this should take time..."
+  "connecting_bank_id_texts_8": "PLZ_TRANSLATE this should take time...",
+  "your_weekly_allowance": "PLZ_TRANSLATE Your weekly allowance",
+  "your_monthly_allowance": "PLZ_TRANSLATE Your monthly allowance",
+  "kid_welcome_weekly_allowance_description": "PLZ_TRANSLATE This is what you are garanteed every week on payday.",
+  "kid_welcome_monthly_allowance_description": "PLZ_TRANSLATE This is what you are garanteed every month on payday.",
+  "kid_welcome_suggest_button": "PLZ_TRANSLATE Suggest a chore"
 }
