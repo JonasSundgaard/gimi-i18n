@@ -1497,5 +1497,13 @@
   "kid_welcome_savings_explainer": "...are in the cloud. This is the money the grownups owe you. It's yours but the grownups hold it for you.",
   "kid_welcome_spending_title": "Feel like spending?",
   "kid_welcome_spending_text": "You can see who owes you money. If you want to buy something, you ask them to buy it for you.",
-  "kid_welcome_invite_button": "Invite a grownup"
+  "kid_welcome_invite_button": "Invite a grownup",
+  "connecting_bank_id_texts_1": "Connecting to BankId...",
+  "connecting_bank_id_texts_2": "BankID loading...",
+  "connecting_bank_id_texts_3": "Collecting data...",
+  "connecting_bank_id_texts_4": "Contacting NASA...",
+  "connecting_bank_id_texts_5": "Elon musk calculates...",
+  "connecting_bank_id_texts_6": "Scanning cyber space...",
+  "connecting_bank_id_texts_7": "Gimi thinks...",
+  "connecting_bank_id_texts_8": "this should take time..."
 }
