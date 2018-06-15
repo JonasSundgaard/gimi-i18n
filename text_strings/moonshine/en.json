@@ -1480,5 +1480,6 @@
   "choose_recurring_day_explainer": "Chores are activated weekly, every Friday. You can assign them specific days, but they will be visible all week. Want a weekly chore? Just assign it to Friday!",
   "card_pin_header": "the PIN code for your card",
   "push_notification_header": "Turn on notifications and relax...",
-  "push_notification_desc": "We will remind you about the important stuff, and let you know when you’re needed."
+  "push_notification_desc": "We will remind you about the important stuff, and let you know when you’re needed.",
+  "general_yes_please": "Yes please!"
 }
