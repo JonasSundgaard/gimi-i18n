@@ -1481,5 +1481,21 @@
   "card_pin_header": "PLZ_TRANSLATE the PIN code for your card",
   "push_notification_header": "PLZ_TRANSLATE Turn on notifications and relax...",
   "push_notification_desc": "PLZ_TRANSLATE We will remind you about the important stuff, and let you know when you’re needed.",
-  "general_yes_please": "PLZ_TRANSLATE Yes please!"
+  "general_yes_please": "PLZ_TRANSLATE Yes please!",
+  "kid_welcome_you_need_grownups": "PLZ_TRANSLATE You need grownups in here",
+  "kid_welcome_you_need_grownups_explainer": "PLZ_TRANSLATE Gimi only works if you get money and chores from some grownups. If you know any, invite them to Gimi!",
+  "kid_welcome_payday_title": "PLZ_TRANSLATE Payday is money day!",
+  "kid_welcome_payday_text": "PLZ_TRANSLATE Payday is the day when you get your money! You can see how much allowance, interest and chores you will get from your parents.",
+  "kid_welcome_payday_image_text": "PLZ_TRANSLATE Watch the countdown!",
+  "kid_welcome_chores_title": "PLZ_TRANSLATE Earn more with chores!",
+  "kid_welcome_chores_explainer": "PLZ_TRANSLATE You can suggest chores yourself, or ask a parent to assign them to you. The money you earn will be paid out on the next payday!",
+  "kid_welcome_chores_example_title": "PLZ_TRANSLATE Do the laundry",
+  "kid_welcome_chores_example_subtitle": "PLZ_TRANSLATE Friday",
+  "kid_welcome_interest_title": "PLZ_TRANSLATE Interest makes your savings grow!",
+  "kid_welcome_interest_explainer": "PLZ_TRANSLATE Interest is like a bonus you get from your parents for not spending your money. So the more money you save, the faster your money grow!",
+  "kid_welcome_savings_title": "PLZ_TRANSLATE Your savings",
+  "kid_welcome_savings_explainer": "PLZ_TRANSLATE ...are in the cloud. This is the money the grownups owe you. It's yours but the grownups hold it for you.",
+  "kid_welcome_spending_title": "PLZ_TRANSLATE Feel like spending?",
+  "kid_welcome_spending_text": "PLZ_TRANSLATE You can see who owes you money. If you want to buy something, you ask them to buy it for you.",
+  "kid_welcome_invite_button": "PLZ_TRANSLATE Invite a grownup"
 }
