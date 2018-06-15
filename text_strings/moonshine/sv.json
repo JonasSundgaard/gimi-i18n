@@ -1510,5 +1510,6 @@
   "your_monthly_allowance": "Your monthly allowance",
   "kid_welcome_weekly_allowance_description": "This is what you are garanteed every week on payday.",
   "kid_welcome_monthly_allowance_description": "This is what you are garanteed every month on payday.",
-  "kid_welcome_suggest_button": "Suggest a chore"
+  "kid_welcome_suggest_button": "Suggest a chore",
+  "empty_card_state": "No card here yet..."
 }
