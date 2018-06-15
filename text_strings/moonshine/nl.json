@@ -1511,5 +1511,7 @@
   "kid_welcome_weekly_allowance_description": "PLZ_TRANSLATE This is what you are garanteed every week on payday.",
   "kid_welcome_monthly_allowance_description": "PLZ_TRANSLATE This is what you are garanteed every month on payday.",
   "kid_welcome_suggest_button": "PLZ_TRANSLATE Suggest a chore",
-  "empty_card_state": "PLZ_TRANSLATE No card here yet..."
+  "empty_card_state": "PLZ_TRANSLATE No card here yet...",
+  "are_you_sure_password_code_reset": "PLZ_TRANSLATE PLZ_CHECK Sure you want to reset your passcode?",
+  "are_you_sure_password_code_reset_": "PLZ_TRANSLATE PLZ_CHECK If you forget your passcode, you can reset it. We will send you a sms code for verification."
 }
