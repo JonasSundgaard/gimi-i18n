@@ -1478,5 +1478,7 @@
   "custom_notification_word_from_ceo": "PLZ_TRANSLATE Word from the CEO",
   "pin_code_doesnt_match_old_error": "PLZ_TRANSLATE PIN-code does not match the old.",
   "choose_recurring_day_explainer": "PLZ_TRANSLATE Chores are activated weekly, every Friday. You can assign them specific days, but they will be visible all week. Want a weekly chore? Just assign it to Friday!",
-  "card_pin_header": "PLZ_TRANSLATE the PIN code for your card"
+  "card_pin_header": "PLZ_TRANSLATE the PIN code for your card",
+  "push_notification_header": "PLZ_TRANSLATE Turn on notifications and relax...",
+  "push_notification_desc": "PLZ_TRANSLATE We will remind you about the important stuff, and let you know when you’re needed."
 }
