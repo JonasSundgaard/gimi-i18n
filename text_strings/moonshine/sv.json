@@ -1337,7 +1337,7 @@
   "activate_new_card": "Aktivera det nya kortet",
   "card_was_lost_info": "Kortet tappades bort, men ett nytt kort är på väg!",
   "you_have_been_disconnected_title": "Du har förlorat kontakten",
-  "you_have_been_disconnected_desc": "%1$d raderade er kontakt. Pengarna som %1$d var skyldig dig har tagits bort från Molnet och ni är inte längre kontakter.",
+  "you_have_been_disconnected_desc": "%1$d raderade er kontakt. Pengarna som %1$d var skyldig dig har tagits bort från ditt sparande och ni är inte längre kontakter.",
   "general_ok_got_it": "OK jag förstår",
   "month_and_year": "månad / år",
   "get_card_info_error": "Åh nej... Vi kunde inte registrera dina kortuppgifter. Prova snart igen!",
