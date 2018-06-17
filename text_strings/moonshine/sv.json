@@ -668,7 +668,7 @@
   "bank_not_responding_desc": "Det verkar som att något är fel med kopplingen till din bank. Vänta lite och prova sen igen.",
   "general_oh_no": "åh nej...",
   "bank_connection_error_desc": "Det verkar som att något gick snett med kopplingen till din bank. Vi är ledsna för detta! Vi jobbar på problemet, prova gärna igen lite senare.",
-  "incorrect_name_desc": "Om du inte angivit ditt namn korrekt kan vi inte verifiera din identitet.",
+  "incorrect_name_desc": "Om ditt namn inte är stämmer här, så kan vi tyvärr inte verifiera din identitet. Kontakta vår support så hjälper vi dig!",
   "why_ask_for_id": "Varför vi frågar om ditt personnummer?",
   "why_ask_for_id_desc": "Enligt EU:s lagstiftningar och regler behöver vi kunna säkerställa identiteten på dig som kund",
   "add_pin_success_title": "Klart! Du har från och med nu en kod i appen.",
