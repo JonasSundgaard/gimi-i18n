@@ -1516,5 +1516,6 @@
   "are_you_sure_password_code_reset_description": "PLZ_TRANSLATE PLZ_CHECK If you forget your passcode, you can reset it. We will send you a sms code for verification.",
   "incorrect_name_header": "PLZ_TRANSLATE We can't verify your identify",
   "premium_pay_day_header": "PLZ_TRANSLATE Today is payday for %1$d!",
-  "premium_pay_day_subtitle": "PLZ_TRANSLATE Lorem ipsum wow yeeeh! money money money"
+  "premium_pay_day_subtitle": "PLZ_TRANSLATE Lorem ipsum wow yeeeh! money money money",
+  "why_do_we_need_this": "PLZ_TRANSLATE Why do we need this?"
 }
