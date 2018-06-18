@@ -1513,5 +1513,6 @@
   "kid_welcome_suggest_button": "Suggest a chore",
   "empty_card_state": "No card here yet...",
   "are_you_sure_password_code_reset": "PLZ_CHECK Sure you want to reset your passcode?",
-  "are_you_sure_password_code_reset_description": "PLZ_CHECK If you forget your passcode, you can reset it. We will send you a sms code for verification."
+  "are_you_sure_password_code_reset_description": "PLZ_CHECK If you forget your passcode, you can reset it. We will send you a sms code for verification.",
+  "incorrect_name_header": "We can't verify your identify"
 }
