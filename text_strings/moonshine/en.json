@@ -1517,5 +1517,7 @@
   "incorrect_name_header": "We can't verify your identify",
   "premium_pay_day_header": "Today is payday for %1$d!",
   "premium_pay_day_subtitle": "Lorem ipsum wow yeeeh! money money money",
-  "why_do_we_need_this": "Why do we need this?"
+  "why_do_we_need_this": "Why do we need this?",
+  "manual_pfs_deposit_hundred": "Manual PFS deposit 100",
+  "manual_pfs_deposit_five_hundred": "Manual PFS deposit 500"
 }
