@@ -1519,5 +1519,6 @@
   "premium_pay_day_subtitle": "Lorem ipsum wow yeeeh! money money money",
   "why_do_we_need_this": "Why do we need this?",
   "manual_pfs_deposit_hundred": "Manual PFS deposit 100",
-  "manual_pfs_deposit_five_hundred": "Manual PFS deposit 500"
+  "manual_pfs_deposit_five_hundred": "Manual PFS deposit 500",
+  "parent_blocked_card_text": "your parent blocked your card..."
 }
