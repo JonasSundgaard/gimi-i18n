@@ -72,7 +72,7 @@
   "about.team.subtitle": "Here are some of the co-workers at Gimi.",
   "about.vision.title": "Vision",
   "about.vision.content": "We believe in young people and want to give them financial superskills - for life. At Gimi, we believe that Financial Superskills are essential in a cashless society and that young people should learn how to earn, save and spend their own money. This is why we’re building the best finance app on the planet for young people.",
-  "card.hero.title": "Coming soon - the Gimi card",
+  "card.hero.title": "About Gimi Premium & The Gimi Card",
   "card.hero.subtitle": "Experience financial freedom. Join the waiting list today and be the first to get a Gimi card.",
   "card.contact.title": "Sign up for the Card",
   "card.contact.subtitle": "Want to be the first to get a Gimi card? Join the queue!",
@@ -224,5 +224,6 @@
   "help.question.3": "How do I create an account?",
   "help.answer.3": "1. Download the app {br}2. Select “Join” {br}3. Follow the instructions",
   "help.question.4": "I can’t log in, what do I do?",
-  "help.answer.4": "If you can’t log in it can be due to many different reasons. Maybe you entered the wrong e-mail address or telephone number.{br}If you have problem logging in you can always contact us. Either via the chat in app or at the website (open at weekdays 9-17) or send us an e-mail at hello@gimitheapp.com"
+  "help.answer.4": "If you can’t log in it can be due to many different reasons. Maybe you entered the wrong e-mail address or telephone number.{br}If you have problem logging in you can always contact us. Either via the chat in app or at the website (open at weekdays 9-17) or send us an e-mail at hello@gimitheapp.com",
+  "about.gimi.card": "About the Gimi Card"
 }

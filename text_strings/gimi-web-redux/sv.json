@@ -72,7 +72,7 @@
   "about.team.subtitle": "Här är några av oss som jobbar på Gimi.",
   "about.vision.title": "Vision",
   "about.vision.content": "We believe in young people and want to give them financial superskills - for life. At Gimi, we believe that Financial Superskills are essential in a cashless society and that young people should learn how to earn, save and spend their own money. This is why we’re building the best finance app on the planet for young people.",
-  "card.hero.title": "Kommer snart - Gimi-kortet",
+  "card.hero.title": "Om Gimi Premium & Gimi-kortet",
   "card.hero.subtitle": "Finansiell frihet för alla. Skriv upp dig på vår väntelista idag och bli först ut med det nya Gimi-kortet.",
   "card.contact.title": "Till väntelistan",
   "card.contact.subtitle": "Vill du vara först ut med Gimi-kortet? Ställ dig på väntelistan.",
@@ -224,5 +224,6 @@
   "help.question.3": "Hur skapar jag ett konto?",
   "help.answer.3": "1. Ladda ner appen {br}2. Välj “Gå med” {br}3. Följ instruktionerna",
   "help.question.4": "Jag kan inte logga in, vad gör jag?",
-  "help.answer.4": "Att du inte kan logga in kan bero på flera saker. Börja med att dubbelkolla att du angivit rätt telefonnummer eller mejladress. Ibland kommer inte koden på en gång, vänta lite. Du kan alltid kontakta oss via vår chatt på hemsidan eller i appen (öppen vardagar 9-17) eller skicka ett mejl till hello@gimitheapp.com"
+  "help.answer.4": "Att du inte kan logga in kan bero på flera saker. Börja med att dubbelkolla att du angivit rätt telefonnummer eller mejladress. Ibland kommer inte koden på en gång, vänta lite. Du kan alltid kontakta oss via vår chatt på hemsidan eller i appen (öppen vardagar 9-17) eller skicka ett mejl till hello@gimitheapp.com",
+  "about.gimi.card": "Om Gimi-kortet"
 }
