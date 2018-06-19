@@ -44,6 +44,7 @@
   "dashboard_goal_created": "PLZ_TRANSLATE Savings goal {goal.title} set",
   "dashboard_goal_completed": "PLZ_TRANSLATE Completed {goal.title}",
   "dashboard_transfer_to_savings": "PLZ_TRANSLATE Saved {transaction.str_value}",
+  "event_complete_card_order_child": "PLZ_TRANSLATE A card is on it´s way! You are going to receive a card from Gimi. Go to the app for more info",
   "push_task_updated": "PLZ_TRANSLATE {user} has an updated {task}",
   "dashboard_child_not_connected": "PLZ_TRANSLATE Connect to a family member",
   "dashboard_child_setup": "PLZ_TRANSLATE Set up a profile",

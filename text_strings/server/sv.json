@@ -44,6 +44,7 @@
   "dashboard_goal_created": "Skapade sparmålet {goal.title}",
   "dashboard_goal_completed": "Uppnådde sparmålet {goal.title}",
   "dashboard_transfer_to_savings": "Sparade {transaction.str_value}",
+  "event_complete_card_order_child": "Ett kort är på sin väg! Du kommer att få ett kort från Gimi. Gå till appen för mer info",
   "push_task_updated": "{user} har ändrat uppgiften {task}",
   "dashboard_child_not_connected": "Koppla ihop",
   "dashboard_child_setup": "Är inte färdigskapad än",

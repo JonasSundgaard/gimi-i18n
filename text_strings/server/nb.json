@@ -44,6 +44,7 @@
   "dashboard_goal_created": "Opprettet sparemålet {goal.title}",
   "dashboard_goal_completed": "Oppnådde sparemålet {goal.title}",
   "dashboard_transfer_to_savings": "Spart {transaction.str_value}",
+  "event_complete_card_order_child": "PLZ_TRANSLATE A card is on it´s way! You are going to receive a card from Gimi. Go to the app for more info",
   "push_task_updated": "{user} har endret oppgaven {task}",
   "dashboard_child_not_connected": "Koble sammen",
   "dashboard_child_setup": "Er ikke ferdigskapt enda",

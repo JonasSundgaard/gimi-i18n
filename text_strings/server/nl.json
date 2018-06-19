@@ -44,6 +44,7 @@
   "dashboard_goal_created": "Spaardoel gezet : {goal.title}",
   "dashboard_goal_completed": "Voltooid {goal.title}",
   "dashboard_transfer_to_savings": "Spaarde {transaction.str_value}",
+  "event_complete_card_order_child": "PLZ_TRANSLATE A card is on it´s way! You are going to receive a card from Gimi. Go to the app for more info",
   "push_task_updated": "{user} heeft {task} bijgewerkt",
   "dashboard_child_not_connected": "Verbind met een iemand van uw gezin",
   "dashboard_child_setup": "Maak een profiel",
