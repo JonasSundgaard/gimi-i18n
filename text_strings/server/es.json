@@ -44,7 +44,7 @@
   "dashboard_goal_created": "Meta de ahorro {goal.title} establecida",
   "dashboard_goal_completed": "{goal.title} completada",
   "dashboard_transfer_to_savings": "{transaction.str_value} guardado",
-  "event_complete_card_order_child": "PLZ_TRANSLATE A card is on it´s way! You are going to receive a card from Gimi. Go to the app for more info",
+  "event_complete_card_order": "PLZ_TRANSLATE A card is on it´s way! You are going to receive a card from Gimi. Go to the app for more info",
   "push_task_updated": "{user} tiene la actualización de {task}",
   "dashboard_child_not_connected": "Conectar a un miembro de la familia",
   "dashboard_child_setup": "¡Configurar un perfil!",

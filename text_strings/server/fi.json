@@ -44,7 +44,7 @@
   "dashboard_goal_created": "Säästötavoite {goal.title} luotu",
   "dashboard_goal_completed": "Säästötavoite {goal.title} saavutettu",
   "dashboard_transfer_to_savings": "Säästetty summa: {transaction.str_value}",
-  "event_complete_card_order_child": "PLZ_TRANSLATE A card is on it´s way! You are going to receive a card from Gimi. Go to the app for more info",
+  "event_complete_card_order": "PLZ_TRANSLATE A card is on it´s way! You are going to receive a card from Gimi. Go to the app for more info",
   "push_task_updated": "{user} on muuttanut askaretta {task}",
   "dashboard_child_not_connected": "Älä unohda yhdistää perheenjäseniäsi",
   "dashboard_child_setup": "Luo profiili",

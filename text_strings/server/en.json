@@ -44,7 +44,7 @@
   "dashboard_goal_created": "Savings goal {goal.title} set",
   "dashboard_goal_completed": "Completed {goal.title}",
   "dashboard_transfer_to_savings": "Saved {transaction.str_value}",
-  "event_complete_card_order_child": "A card is on it´s way! You are going to receive a card from Gimi. Go to the app for more info",
+  "event_complete_card_order": "A card is on it´s way! You are going to receive a card from Gimi. Go to the app for more info",
   "push_task_updated": "{user} has updated {task}",
   "dashboard_child_not_connected": "Connect to a family member",
   "dashboard_child_setup": "Set up a profile",

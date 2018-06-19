@@ -44,7 +44,7 @@
   "dashboard_goal_created": "PLZ_TRANSLATE Skapade sparmålet {goal.title}",
   "dashboard_goal_completed": "PLZ_TRANSLATE Uppnådde sparmålet {goal.title}",
   "dashboard_transfer_to_savings": "PLZ_TRANSLATE Sparade {transaction.str_value}",
-  "event_complete_card_order_child": "PLZ_TRANSLATE A card is on it´s way! You are going to receive a card from Gimi. Go to the app for more info",
+  "event_complete_card_order": "PLZ_TRANSLATE A card is on it´s way! You are going to receive a card from Gimi. Go to the app for more info",
   "push_task_updated": "PLZ_TRANSLATE {user} har ändrat uppgiften {task}",
   "dashboard_child_not_connected": "PLZ_TRANSLATE ekki gleyma að tengja saman",
   "dashboard_child_setup": "PLZ_TRANSLATE Er ekki tilbúið",

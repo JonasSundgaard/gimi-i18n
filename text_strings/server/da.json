@@ -44,7 +44,7 @@
   "dashboard_goal_created": "Oprettede opsparingsmål {goal.title}",
   "dashboard_goal_completed": "Opsparingsmålet er opnået {goal.title}",
   "dashboard_transfer_to_savings": "Opsparet {transaction.str_value}",
-  "event_complete_card_order_child": "PLZ_TRANSLATE A card is on it´s way! You are going to receive a card from Gimi. Go to the app for more info",
+  "event_complete_card_order": "PLZ_TRANSLATE A card is on it´s way! You are going to receive a card from Gimi. Go to the app for more info",
   "push_task_updated": "{user} har ændret opgaven {task}",
   "dashboard_child_not_connected": "Glem ikke at tilslutte dig",
   "dashboard_child_setup": "Er ikke færdigoprettet endnu",
