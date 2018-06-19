@@ -1520,5 +1520,5 @@
   "why_do_we_need_this": "Hvorfor trenger vi dette?",
   "manual_pfs_deposit_hundred": "PLZ_TRANSLATE Manual PFS deposit 100",
   "manual_pfs_deposit_five_hundred": "PLZ_TRANSLATE Manual PFS deposit 500",
-  "parent_blocked_card_text": "PLZ_TRANSLATE your parent blocked your card..."
+  "parent_blocked_card": "PLZ_TRANSLATE your parent blocked your card..."
 }
