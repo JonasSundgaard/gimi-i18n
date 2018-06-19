@@ -112,7 +112,7 @@
   "settings_currency": "valuta",
   "settings_pin": "PIN-kode",
   "settings_sign_in_as": "logg inn som %1$d",
-  "settings_sign_in_as_description": "du logger nå inn som %1$d. Du kan gå tilbake til din egen konto i %1$d's innstillninger.",
+  "settings_sign_in_as_description": "du logger nå inn som %1$d. Du kan gå tilbake til din egen konto i %1$ds innstillinger.",
   "add_card": "legg til kort",
   "cancel_subscription": "avslutte Premium",
   "subscription_prefix_name": "Premium for %1$d",
