@@ -1520,5 +1520,6 @@
   "why_do_we_need_this": "Why do we need this?",
   "manual_pfs_deposit_hundred": "Manual PFS deposit 100",
   "manual_pfs_deposit_five_hundred": "Manual PFS deposit 500",
-  "parent_blocked_card": "your parent blocked your card..."
+  "parent_blocked_card": "your parent blocked your card...",
+  "maybe_try_again": "Maybe just try again?"
 }
