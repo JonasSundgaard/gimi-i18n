@@ -471,7 +471,7 @@
   "bot_greeting_4": "Hei %1$d",
   "bot_greeting_5": "Heeeeeei!",
   "bot_greeting_6": "Jasså! Det er lenge siden!",
-  "bot_greeting_absent": "Jeg teller pengene dine. Vi snakke igjen i morgen!",
+  "bot_greeting_absent": "Jeg teller pengene dine. Vi snakkes igjen i morgen!",
   "bot_question_connect": "du har ikke koblet deg sammen med en voksen ennå. Vil du invitere nå?",
   "bot_question_allowance": "Yay! I dag er %1$d og du vil få %2$d. Vil du putte pengene i skyen?",
   "bot_message_allowance": "Woohoo! I dag er det %1$d og du har fått en sparebonus på %2$d!",
