@@ -1523,5 +1523,7 @@
   "parent_blocked_card": "Foreldrene dine blokkerte kortet ditt...",
   "maybe_try_again": "Kanskje bare prøv igjen?",
   "pfs_temp_trans_text": "PLZ_TRANSLATE Shit! it worked!",
-  "no_phone_no_pin_premium_error": "PLZ_TRANSLATE something went wrong... plz contact support"
+  "no_phone_no_pin_premium_error": "PLZ_TRANSLATE something went wrong... plz contact support",
+  "blocked_card_header": "PLZ_TRANSLATE Your card has been blocked",
+  "blocked_card_desc": "PLZ_TRANSLATE ...and can only be unblocked by the person who blocked it. Until then, you cant use the card."
 }
