@@ -1521,5 +1521,6 @@
   "manual_pfs_deposit_hundred": "PLZ_TRANSLATE Manual PFS deposit 100",
   "manual_pfs_deposit_five_hundred": "PLZ_TRANSLATE Manual PFS deposit 500",
   "parent_blocked_card": "Foreldrene dine blokkerte kortet ditt...",
-  "maybe_try_again": "Kanskje bare prøv igjen?"
+  "maybe_try_again": "Kanskje bare prøv igjen?",
+  "pfs_temp_trans_text": "PLZ_TRANSLATE Shit! it worked!"
 }

@@ -1521,5 +1521,6 @@
   "manual_pfs_deposit_hundred": "Manual PFS deposit 100",
   "manual_pfs_deposit_five_hundred": "Manual PFS deposit 500",
   "parent_blocked_card": "your parent blocked your card...",
-  "maybe_try_again": "Maybe just try again?"
+  "maybe_try_again": "Maybe just try again?",
+  "pfs_temp_trans_text": "Shit! it worked!"
 }
