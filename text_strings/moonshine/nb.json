@@ -367,7 +367,7 @@
   "general_requested": "etterspurt",
   "general_message": "melding",
   "general_mega_error": "Stor feil",
-  "camera_mega_error_description": "gimi behøver tilgang til ditt kamera. Gå til innstillinger for å gi tillatelse til dette.",
+  "camera_mega_error_description": "Gimi behøver tilgang til ditt kamera. Gå til innstillinger for å gi tillatelse til dette.",
   "general_go_to_settings": "gå til innstillinger",
   "edit_dream": "redigere drøm",
   "add_dream": "hva drømmer du om?",
