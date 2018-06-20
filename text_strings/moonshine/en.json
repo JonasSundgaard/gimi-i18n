@@ -1522,5 +1522,6 @@
   "manual_pfs_deposit_five_hundred": "Manual PFS deposit 500",
   "parent_blocked_card": "your parent blocked your card...",
   "maybe_try_again": "Maybe just try again?",
-  "pfs_temp_trans_text": "Shit! it worked!"
+  "pfs_temp_trans_text": "Shit! it worked!",
+  "no_phone_no_pin_premium_error": "something went wrong... plz contact support"
 }
