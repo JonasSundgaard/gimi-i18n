@@ -1528,5 +1528,6 @@
   "blocked_card_desc": "...and can only be unblocked by the person who blocked it. Until then, you cant use the card.",
   "general_contact_support": "Contact support",
   "parent_block_card_title": "Your card has been blocked",
-  "parent_block_card_desc": "... and can only be unblocked by the same person who blocked it"
+  "parent_block_card_desc": "... and can only be unblocked by the same person who blocked it",
+  "premium_allowance_subtitle": "In Gimi premium, your child is also upgraded to a monthly allowance."
 }
