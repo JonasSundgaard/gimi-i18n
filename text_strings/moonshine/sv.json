@@ -1529,5 +1529,7 @@
   "general_contact_support": "Contact support",
   "parent_block_card_title": "Your card has been blocked",
   "parent_block_card_desc": "... and can only be unblocked by the same person who blocked it",
-  "premium_allowance_subtitle": "In Gimi premium, your child is also upgraded to a monthly allowance."
+  "premium_allowance_subtitle": "In Gimi premium, your child is also upgraded to a monthly allowance.",
+  "kid_dream_achived": "%1$d achived a dream!",
+  "kid_dream_achived_desc": "Congratulate %1$d on the achievement and keep encouraging saving!"
 }
